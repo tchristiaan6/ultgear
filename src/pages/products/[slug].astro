@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { products } from '../../lib/data';
+export function getStaticPaths() { return products.map(p => ({ params: { slug: p.slug }, props: { p } })); }
+const { p } = Astro.props;
+const i = products.findIndex(x => x.slug === p.slug);
+const prev = products[(i - 1 + products.length) % products.length], next = products[(i + 1) % products.length];
+const more = products.filter(x => x.category === p.category && x.slug !== p.slug).slice(0, 3);
+---
+<Base title={p.title} description={p.summary} image={p.hero} type="article">
+<article class="section"><div class="container">
+  <p class="kicker"><a href="/#products" style="text-decoration:none">{p.category}</a></p>
+  <div class="head"><h1 style="font-size:clamp(36px,5vw,64px)">{p.title}</h1><span class="pill">{p.status}</span></div>
+  <p class="lede">{p.summary}</p>
+  <div class="body">
+    <div class="story"><p>{p.story}</p>
+      {p.wanted.length > 0 && <div class="box"><h4>What I asked for</h4><ul>{p.wanted.map((w: string) => <li>{w}</li>)}</ul></div>}
+      {p.docs.length > 0 && <div class="box"><h4>On file</h4><ul>{p.docs.map((d: string) => <li>{d}</li>)}</ul></div>}
+    </div>
+    <img class="hero-img" src={p.hero} alt={p.title} width="1200" height="900">
+  </div>
+  {p.gallery.length > 1 && <div class="gallery"><h3>Photos, samples and revisions</h3><div class="masonry">{p.gallery.slice(1).map((src: string) => <a href={src} target="_blank" rel="noopener"><img src={src} alt={p.title} loading="lazy"></a>)}</div></div>}
+  <nav class="pn"><a href={`/products/${prev.slug}`}>&larr; {prev.title}</a><a href={`/products/${next.slug}`}>{next.title} &rarr;</a></nav>
+</div></article>
+{more.length > 0 && <section class="section section--soft"><div class="container"><h2 style="font-size:28px;margin-bottom:20px">More {p.category.toLowerCase()}</h2><div class="grid grid--3">{more.map((m: any) => <ProductCard p={m} />)}</div></div></section>}
+</Base>
+<style>
+.head{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:6px}.lede{font-size:20px;color:var(--ink-2);max-width:60ch;margin-bottom:32px}
+.body{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}.story p{font-size:17px;line-height:1.7}.hero-img{border-radius:var(--radius);width:100%;aspect-ratio:4/3;object-fit:cover;border:1px solid var(--line)}
+@media(max-width:860px){.body{grid-template-columns:1fr}.hero-img{order:-1}}
+.box{background:var(--bg-soft);border-radius:12px;padding:16px 20px;margin-top:18px}.box h4{font-family:var(--font-head);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}.box ul{margin:0;padding-left:18px;font-size:15px}.box li{margin:4px 0}
+.gallery{margin-top:48px}.gallery h3{font-size:22px;margin-bottom:16px}.gallery a{display:block;break-inside:avoid}
+.pn{display:flex;justify-content:space-between;gap:16px;margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-family:var(--font-head);font-weight:700;font-size:15px}.pn a{text-decoration:none}.pn a:hover{color:var(--yellow-dark)}
+</style>

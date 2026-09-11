@@ -1,0 +1,62 @@
+---
+import Base from '../layouts/Base.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { site, products, byCategory } from '../lib/data';
+---
+<Base>
+<section class="hero"><div class="container hero__grid">
+  <div>
+    <p class="kicker">{site.hero.kicker}</p>
+    <h1>{site.hero.title}</h1>
+    <p class="hero__lede">{site.hero.text}</p>
+    <div class="hero__actions"><a class="btn" href="#products">See the products</a><a class="btn btn--ghost" href="#ending">How it ended</a></div>
+  </div>
+  <div class="hero__img"><img src={site.hero.image} alt="Hiker with a small pack on a ridge" width="1200" height="800" fetchpriority="high"></div>
+</div></section>
+
+<section class="section section--soft reveal" id="idea"><div class="container idea">
+  <div><p class="kicker">The idea</p><h2>{site.idea.title}</h2><p>{site.idea.text}</p></div>
+  <img src={site.idea.image} alt="Venn diagram: ultralight backpacking, digital nomad, minimalist travel" loading="lazy" width="900" height="700">
+</div></section>
+
+<section class="section--tight reveal"><div class="container numbers">{site.numbers.map(([n, l]: [string, string]) => <div class="num"><b>{n}</b><span>{l}</span></div>)}</div></section>
+
+<section class="section reveal" id="products"><div class="container">
+  <p class="kicker">The products</p><h2>Thirty ideas. Fifteen that left the sketchbook.</h2>
+  <p style="max-width:60ch;color:var(--ink-2)">Every card is a real project with real artifacts: factory samples, tech packs, annotated revisions, patent searches. The status pill says how far each one got.</p>
+  {site.categories.map((c: string) => <div class="cat"><h3>{c}</h3><div class="grid grid--3">{byCategory(c).map((p: any) => <ProductCard p={p} />)}</div></div>)}
+  <div class="concepts"><h3>And the ones that stayed on paper</h3><ul>{site.concepts.map((c: any) => <li><b>{c.title}</b><span>{c.note}</span></li>)}</ul></div>
+</div></section>
+
+<section class="section section--soft reveal" id="materials"><div class="container">
+  <p class="kicker">Behind the products</p><h2>{site.materials.title}</h2><p style="max-width:60ch;color:var(--ink-2)">{site.materials.text}</p>
+  <div class="masonry">{site.materials.images.map((src: string) => <img src={src} alt="Materials and testing" loading="lazy">)}</div>
+</div></section>
+
+<section class="section reveal" id="storefront"><div class="container store">
+  <img class="store__shot" src={site.storefront.image} alt="ULT Gear storefront, mobile" loading="lazy" width="600" height="1200">
+  <div><p class="kicker">The storefront</p><h2>{site.storefront.title}</h2><p>{site.storefront.text}</p></div>
+</div></section>
+
+<section class="section section--dark reveal" id="ending"><div class="container ending">
+  <p class="kicker">In my own words</p><h2>{site.ending.title}</h2>
+  {site.ending.paras.map((t: string) => <p>{t}</p>)}
+  <a class="btn" href="https://tchristiaan.com" target="_blank" rel="noopener">More projects at tchristiaan.com</a>
+</div></section>
+</Base>
+<style>
+.hero{padding:72px 0 0;background:var(--bg)}.hero__grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center;padding-bottom:64px}
+.hero__lede{font-size:19px;color:var(--ink-2);max-width:56ch;margin:18px 0 28px}.hero__actions{display:flex;gap:12px;flex-wrap:wrap}
+.hero__img img{border-radius:var(--radius);aspect-ratio:4/3;object-fit:cover;width:100%}
+@media(max-width:860px){.hero__grid{grid-template-columns:1fr}.hero{padding-top:48px}}
+.idea{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}.idea img{border-radius:var(--radius);mix-blend-mode:multiply}.idea p{max-width:56ch;color:var(--ink-2);font-size:18px}
+@media(max-width:860px){.idea{grid-template-columns:1fr}}
+.numbers{display:flex;flex-wrap:wrap;gap:18px 40px;justify-content:space-between;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:26px 0}
+.num b{font-family:var(--font-head);font-size:44px;font-weight:800;display:block;line-height:1}.num span{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.cat{margin-top:40px}.cat h3{font-size:22px;color:var(--ink-2);border-left:4px solid var(--yellow);padding-left:12px;margin-bottom:18px}
+.concepts{margin-top:48px;border:1px dashed #c9ced1;border-radius:var(--radius);padding:24px 28px}.concepts h3{font-size:20px}.concepts ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,1fr);gap:8px 32px}.concepts li{font-size:15px;display:block;padding:8px 0;border-bottom:1px solid var(--line)}.concepts li b{font-family:var(--font-head);font-weight:700;display:block}.concepts li span{color:var(--muted);font-size:14px}
+@media(max-width:700px){.concepts ul{grid-template-columns:1fr}}
+.store{display:grid;grid-template-columns:320px 1fr;gap:48px;align-items:center}.store__shot{border-radius:22px;border:6px solid var(--ink);max-width:300px}.store p{max-width:56ch;color:var(--ink-2);font-size:18px}
+@media(max-width:760px){.store{grid-template-columns:1fr}.store__shot{max-width:240px}}
+.ending{max-width:760px}.ending p{font-size:18px;line-height:1.7;color:#d7dcd9}.ending .btn{margin-top:12px}
+</style>

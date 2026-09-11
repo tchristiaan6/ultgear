@@ -1,0 +1,838 @@
+{
+ "switchkicks": [
+  [
+   "/images/products/switchkicks/concept-p1.jpg",
+   "concept page 1"
+  ],
+  [
+   "/images/products/switchkicks/concept-p2.jpg",
+   "concept page 2"
+  ],
+  [
+   "/images/products/switchkicks/concept-p3.jpg",
+   "concept page 3"
+  ],
+  [
+   "/images/products/switchkicks/concept-p4.jpg",
+   "concept page 4"
+  ],
+  [
+   "/images/products/switchkicks/concept-p5.jpg",
+   "concept page 5"
+  ],
+  [
+   "/images/products/switchkicks/brief-p1.jpg",
+   "brief page 1"
+  ],
+  [
+   "/images/products/switchkicks/brief-p2.jpg",
+   "brief page 2"
+  ],
+  [
+   "/images/products/switchkicks/brief-p3.jpg",
+   "brief page 3"
+  ],
+  [
+   "/images/products/switchkicks/brief-p4.jpg",
+   "brief page 4"
+  ]
+ ],
+ "packable-hoodie": [
+  [
+   "/images/products/packable-hoodie/techpack-p2.jpg",
+   "techpack page 2"
+  ],
+  [
+   "/images/products/packable-hoodie/techpack-p3.jpg",
+   "techpack page 3"
+  ],
+  [
+   "/images/products/packable-hoodie/techpack-p4.jpg",
+   "techpack page 4"
+  ],
+  [
+   "/images/products/packable-hoodie/techpack-p5.jpg",
+   "techpack page 5"
+  ],
+  [
+   "/images/products/packable-hoodie/ketl-mtn-hoodie-1.jpg",
+   "ketl mtn hoodie 1.jpg"
+  ],
+  [
+   "/images/products/packable-hoodie/ketl-mtn-hoodie-2.jpg",
+   "ketl mtn hoodie 2.jpg"
+  ],
+  [
+   "/images/products/packable-hoodie/ketl-mtn-hoodie-3.jpg",
+   "ketl mtn hoodie 3.jpg"
+  ],
+  [
+   "/images/products/packable-hoodie/packable-hoodie-and-shirt.jpg",
+   "packable hoodie and shirt.jpg"
+  ],
+  [
+   "/images/products/packable-hoodie/2023-04-26-13-42-40-messages.jpg",
+   "2023-04-26 13_42_40-Messages.png"
+  ],
+  [
+   "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-1.jpg",
+   "kuhl hoodie hanging hook 1.jpg"
+  ],
+  [
+   "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-2.jpg",
+   "kuhl hoodie hanging hook 2.jpg"
+  ],
+  [
+   "/images/products/packable-hoodie/blue-hoodie.jpg",
+   "blue hoodie.jpg"
+  ]
+ ],
+ "packable-t-shirt": [
+  [
+   "/images/products/packable-t-shirt/techpack-p2.jpg",
+   "techpack page 2"
+  ],
+  [
+   "/images/products/packable-t-shirt/techpack-p3.jpg",
+   "techpack page 3"
+  ],
+  [
+   "/images/products/packable-t-shirt/techpack-p4.jpg",
+   "techpack page 4"
+  ]
+ ],
+ "security-chest-sling": [
+  [
+   "/images/products/security-chest-sling/design-p1.jpg",
+   "design page 1"
+  ],
+  [
+   "/images/products/security-chest-sling/security-chest-sling-1.jpg",
+   "security chest sling 1.jpg"
+  ],
+  [
+   "/images/products/security-chest-sling/security-chest-sling-2.jpg",
+   "security chest sling 2.jpg"
+  ],
+  [
+   "/images/products/security-chest-sling/security-chest-sling-strap-comparison.jpg",
+   "security chest sling strap comparison.jpg"
+  ],
+  [
+   "/images/products/security-chest-sling/packable-hoodie-pocket-placement-1.jpg",
+   "packable hoodie pocket placement 1.jpg"
+  ]
+ ],
+ "packable-travel-shorts": [
+  [
+   "/images/products/packable-travel-shorts/packable-travel-shorts-pocket-placement-1.jpg",
+   "packable travel shorts - pocket placement 1.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-travel-shorts-pocket-placement-2.jpg",
+   "packable travel shorts - pocket placement 2.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-shorts-back-pocket-circled.jpg",
+   "packable shorts back pocket - circled.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-shorts-back-pocket.jpg",
+   "packable shorts back pocket.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packed-shorts.jpg",
+   "packed shorts.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/ultralight-travel-shorts-pocket-placement.jpg",
+   "ultralight travel shorts - pocket placement.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/ultralight-travel-shorts.jpg",
+   "ultralight travel shorts.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/pocket-size-1.jpg",
+   "pocket size 1.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-travel-shorts-tagless-design.jpg",
+   "packable travel shorts tagless design.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/1-waistband-as-is.jpg",
+   "1 - waistband (as-is).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/1-waistband-good.jpg",
+   "1 - waistband (good).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/1-waistband.jpg",
+   "1 - waistband.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/2-drawstrings-as-is.jpg",
+   "2 - drawstrings (as-is).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/2-drawstrings-ideal.jpg",
+   "2 - drawstrings (ideal).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/2-drawstrings.jpg",
+   "2 - drawstrings.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/3-printed-tag-ideal.jpg",
+   "3 - printed tag (ideal).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/3-tag-design.jpg",
+   "3 - tag design.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/4-belt-loops.jpg",
+   "4 - belt loops.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/4-elastic-belt-loops-ideal.jpg",
+   "4 - elastic belt loops (ideal).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/5-back-pocket-as-is-packed.jpg",
+   "5 - back pocket (as-is packed).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/5-back-pocket-as-is.jpg",
+   "5 - back pocket (as-is).jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/5-packing-pocket-w-double-zipper.jpg",
+   "5 - packing pocket w double zipper.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/shorts-tag.jpg",
+   "Shorts Tag.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packed-in-pocket.jpg",
+   "packed in pocket.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/post-packing.jpg",
+   "post-packing.png"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-shorts-3.jpg",
+   "packable shorts 3.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/short-options-1.jpg",
+   "short options 1.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/short-options-2.jpg",
+   "short options 2.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/measuring-shorts.jpg",
+   "measuring shorts.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-short-samples.jpg",
+   "packable short samples.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-shorts.jpg",
+   "packable shorts.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-shorts-4.jpg",
+   "packable shorts 4.jpg"
+  ],
+  [
+   "/images/products/packable-travel-shorts/packable-shorts-5.png",
+   "packable shorts 5.PNG"
+  ]
+ ],
+ "packable-travel-pants": [
+  [
+   "/images/products/packable-travel-pants/pant-pockets-1.jpg",
+   "pant pockets 1.jpg"
+  ],
+  [
+   "/images/products/packable-travel-pants/pant-pockets-2.jpg",
+   "pant pockets 2.jpg"
+  ],
+  [
+   "/images/products/packable-travel-pants/pant-pockets-3.jpg",
+   "pant pockets 3.jpg"
+  ],
+  [
+   "/images/products/packable-travel-pants/pant-pockets-4.jpg",
+   "pant pockets 4.jpg"
+  ],
+  [
+   "/images/products/packable-travel-pants/pant-pockets-5.jpg",
+   "pant pockets 5.JPG"
+  ],
+  [
+   "/images/products/packable-travel-pants/polyester-pants-1.jpg",
+   "polyester pants 1.jpg"
+  ],
+  [
+   "/images/products/packable-travel-pants/travel-pants-back-pocket-highlighted.jpg",
+   "travel pants back pocket - highlighted.png"
+  ],
+  [
+   "/images/products/packable-travel-pants/travel-pants-back-pocket.jpg",
+   "travel pants back pocket.jpg"
+  ],
+  [
+   "/images/products/packable-travel-pants/screenshot-2023-09-01-075536.jpg",
+   "Screenshot 2023-09-01 075536.png"
+  ],
+  [
+   "/images/products/packable-travel-pants/screenshot-2023-09-01-075959.jpg",
+   "Screenshot 2023-09-01 075959.png"
+  ]
+ ],
+ "hidden-pocket-travel-belt": [
+  [
+   "/images/products/hidden-pocket-travel-belt/belt-sample-1.jpg",
+   "belt sample 1.jpg"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/1-overview.png",
+   "1 - Overview.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/2-simple-belt-buckle.png",
+   "2 - Simple Belt Buckle.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/3-two-zip-sealed-hidden-pockets.png",
+   "3 - Two Zip-Sealed Hidden Pockets.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/4-zip-pocket-details.png",
+   "4 - Zip Pocket Details.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/5-notes-on-design.png",
+   "5 - Notes on Design.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/6-side-size-adjuster.png",
+   "6 - Side Size Adjuster.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/7-overview-recap.png",
+   "7 - Overview Recap.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/belt-buckle-details.png",
+   "Belt Buckle Details.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/1-design-overview.png",
+   "1 - Design Overview.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/2-buckle-details-1.png",
+   "2 - Buckle Details 1.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/3-buckle-details-2.png",
+   "3 - Buckle Details 2.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/4-zippered-pocket-1.png",
+   "4 - Zippered Pocket 1.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/5-zippered-pocket-2.png",
+   "5 - Zippered Pocket 2.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/6-zippered-pocket-3.png",
+   "6 - Zippered Pocket 3.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/7-belt-design.png",
+   "7 - Belt Design.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/8-back-belt-loop.png",
+   "8 - Back Belt Loop.png"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/belt-design-change-1.jpg",
+   "belt design change 1.jpg"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/belt-design-change-2.jpg",
+   "belt design change 2.jpg"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/belt-design-change-3.jpg",
+   "belt design change 3.jpg"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/belt-pocket-design.jpg",
+   "belt pocket design.jpg"
+  ],
+  [
+   "/images/products/hidden-pocket-travel-belt/pocket-size.png",
+   "Pocket Size.png"
+  ]
+ ],
+ "packable-day-pack": [
+  [
+   "/images/products/packable-day-pack/ult-gear-day-pack-1.jpg",
+   "ult gear day pack 1.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/ult-gear-day-pack-2-inner-pocket.jpg",
+   "ult gear day pack 2 - inner pocket.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/ult-gear-day-pack-3-packed-1.jpg",
+   "ult gear day pack 3 - packed 1.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/ult-gear-day-pack-3-packed-2.jpg",
+   "ult gear day pack 3 - packed 2.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/day-pack-1.jpg",
+   "day pack 1.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/day-pack-2.jpg",
+   "day pack 2.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/day-pack-3.jpg",
+   "day pack 3.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/day-pack-4.jpg",
+   "day pack 4.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/day-pack-5.jpg",
+   "day pack 5.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/packable-backpack-1.jpg",
+   "packable backpack 1.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/packable-backpack-2.jpg",
+   "packable backpack 2.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/3f52e741-85fa-4515-b190-e293a2677f04.jpg",
+   "3F52E741-85FA-4515-B190-E293A2677F04.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/3b190f16-695f-4996-8b6b-515ce91cccd2.jpg",
+   "3b190f16-695f-4996-8b6b-515ce91cccd2.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/49fc87b4-1a39-4c30-acb3-fc0c38b3d987.jpg",
+   "49FC87B4-1A39-4C30-ACB3-FC0C38B3D987.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/4e44e770-1278-4a18-a36f-2f702a77f990.jpg",
+   "4e44e770-1278-4a18-a36f-2f702a77f990.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/80d17b4b-9e44-4997-a3ea-31a14495e665.jpg",
+   "80D17B4B-9E44-4997-A3EA-31A14495E665.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/9c4e4af1-9d39-4dd8-8911-d948bc37c037.jpg",
+   "9C4E4AF1-9D39-4DD8-8911-D948BC37C037.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/img-6577.jpg",
+   "IMG_6577.JPG"
+  ],
+  [
+   "/images/products/packable-day-pack/a8d46043-519e-4b55-8d76-2fa7eb4fb383.jpg",
+   "a8d46043-519e-4b55-8d76-2fa7eb4fb383.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/da698438-c661-43e9-81bb-319c5ce16c0e.jpg",
+   "da698438-c661-43e9-81bb-319c5ce16c0e.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/img-1891.jpg",
+   "IMG_1891.JPG"
+  ],
+  [
+   "/images/products/packable-day-pack/img-3435.jpg",
+   "IMG_3435.JPG"
+  ],
+  [
+   "/images/products/packable-day-pack/img-2157.jpg",
+   "IMG_2157.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/img-2158.jpg",
+   "IMG_2158.jpg"
+  ],
+  [
+   "/images/products/packable-day-pack/img-2160.jpg",
+   "IMG_2160.jpg"
+  ]
+ ],
+ "packable-waist-pack": [
+  [
+   "/images/products/packable-waist-pack/ult-gear-waist-pack-1.jpg",
+   "ult gear waist pack 1.jpg"
+  ],
+  [
+   "/images/products/packable-waist-pack/ult-gear-waist-pack-2-packed.jpg",
+   "ult gear waist pack 2 - packed.jpg"
+  ],
+  [
+   "/images/products/packable-waist-pack/waist-pack-1.jpg",
+   "waist pack 1.jpg"
+  ],
+  [
+   "/images/products/packable-waist-pack/waist-pack-2.jpg",
+   "waist pack 2.jpg"
+  ],
+  [
+   "/images/products/packable-waist-pack/waist-pack-3.jpg",
+   "waist pack 3.jpg"
+  ]
+ ],
+ "keychain-tote-bag": [
+  [
+   "/images/products/keychain-tote-bag/1.png",
+   "1.png"
+  ],
+  [
+   "/images/products/keychain-tote-bag/2.png",
+   "2.png"
+  ],
+  [
+   "/images/products/keychain-tote-bag/3.png",
+   "3.png"
+  ],
+  [
+   "/images/products/keychain-tote-bag/4.png",
+   "4.png"
+  ],
+  [
+   "/images/products/keychain-tote-bag/5.png",
+   "5.png"
+  ]
+ ],
+ "universal-drying-rack": [
+  [
+   "/images/products/universal-drying-rack/drying-rack-1.jpg",
+   "drying rack 1.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/drying-rack-2-0-pole-layout.png",
+   "drying rack 2.0 pole layout.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/screenshot-2024-05-04-164722.png",
+   "Screenshot 2024-05-04 164722.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/screenshot-2024-05-07-071048.png",
+   "Screenshot 2024-05-07 071048.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/2022-10-26-09-11-32-carbon-fiber-tube-connector-.png",
+   "2022-10-26 09_11_32-Carbon Fiber Tube Connector Systems _ DragonPlate.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/2023-03-28-08-10-38-camping-umbrella-hooks-hangi.png",
+   "2023-03-28 08_10_38-Camping Umbrella Hooks _ Hanging Beach Umbrella _ Beach Umbrella Hooks - Hook 1p.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/2023-03-28-08-10-49-camping-umbrella-hooks-hangi.png",
+   "2023-03-28 08_10_49-Camping Umbrella Hooks _ Hanging Beach Umbrella _ Beach Umbrella Hooks - Hook 1p.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/portable-hanger-1.jpg",
+   "portable hanger 1.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/portable-hanger-2.jpg",
+   "portable hanger 2.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
+   "portable drying rack 2.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/attempt-1.png",
+   "attempt 1.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/attempt-2.png",
+   "attempt 2.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/attempt-3.png",
+   "attempt 3.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/blue-connector.jpg",
+   "blue connector.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/gray-connector.jpg",
+   "gray connector.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/hanger-1.png",
+   "hanger 1.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/stacked-hanger.jpg",
+   "stacked hanger.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/travel-drying-rack-v2.jpg",
+   "travel drying rack v2.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/ulanzi-mt-44-and-tp-02-base-only.jpg",
+   "ulanzi mt-44 and tp-02 base only.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/ulanzi-mt-44-base-only.jpg",
+   "ulanzi mt-44 base only.jpg"
+  ]
+ ],
+ "packable-wash-basin": [
+  [
+   "/images/products/packable-wash-basin/portable-wash-basin-1.jpg",
+   "portable wash basin 1.jpg"
+  ],
+  [
+   "/images/products/packable-wash-basin/portable-wash-basin-2.png",
+   "portable wash basin 2.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/1.png",
+   "1.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/2.png",
+   "2.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/3.png",
+   "3.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/4.png",
+   "4.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/1-portable-wash-basin-v2.png",
+   "1 - Portable Wash Basin V2.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/2-fabric-types.png",
+   "2 - Fabric Types.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/3-pocket-design.png",
+   "3 - Pocket Design.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/4-pocket-design-2.png",
+   "4 - Pocket Design 2.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/5-carrying-case.png",
+   "5 - Carrying Case.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/6-packed-design.png",
+   "6 - Packed Design.png"
+  ],
+  [
+   "/images/products/packable-wash-basin/laundry-bag.jpg",
+   "laundry bag.jpg"
+  ]
+ ],
+ "minimalist-wallet": [
+  [
+   "/images/products/minimalist-wallet/wallet-1.jpg",
+   "wallet 1.jpg"
+  ],
+  [
+   "/images/products/minimalist-wallet/wallet-2.jpg",
+   "wallet 2.jpg"
+  ]
+ ],
+ "packable-beach-blanket": [
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-corner-marked.jpg",
+   "pocket travel blanket - corner marked.png"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-corner.jpg",
+   "pocket travel blanket - corner.jpg"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-packed.jpg",
+   "pocket travel blanket - packed.jpg"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-zipper.jpg",
+   "pocket travel blanket - zipper.png"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-bag-sew-line.jpg",
+   "pocket travel blanket bag - sew line.png"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-bag.jpg",
+   "pocket travel blanket bag.jpg"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket-logo.jpg",
+   "pocket travel blanket logo.jpg"
+  ],
+  [
+   "/images/products/packable-beach-blanket/pocket-travel-blanket.jpg",
+   "pocket travel blanket.jpg"
+  ]
+ ],
+ "self-drying-towel": [
+  [
+   "/images/products/self-drying-towel/bath-towel-1.jpg",
+   "bath towel 1.jpg"
+  ],
+  [
+   "/images/products/self-drying-towel/bath-towel-ink-art.jpg",
+   "bath towel ink art.png"
+  ],
+  [
+   "/images/products/self-drying-towel/hand-towel-2.jpg",
+   "hand towel 2.jpg"
+  ],
+  [
+   "/images/products/self-drying-towel/hand-towel-ink-art.jpg",
+   "hand towel ink art.png"
+  ],
+  [
+   "/images/products/self-drying-towel/toothbrush-charger.jpg",
+   "toothbrush charger.jpg"
+  ]
+ ],
+ "materials-and-testing": [
+  [
+   "/images/materials-and-testing/2c8c9a8d-7cd5-4660-aa3c-1ab9a53f6bb4.jpg",
+   "2c8c9a8d-7cd5-4660-aa3c-1ab9a53f6bb4.jpg"
+  ],
+  [
+   "/images/materials-and-testing/668edb78-e11f-4152-a24b-e19a74bced3c.jpg",
+   "668edb78-e11f-4152-a24b-e19a74bced3c.jpg"
+  ],
+  [
+   "/images/materials-and-testing/b3ba136e-ef7d-44aa-aa4b-046e519e2911.jpg",
+   "b3ba136e-ef7d-44aa-aa4b-046e519e2911.jpg"
+  ],
+  [
+   "/images/materials-and-testing/fabric-samples-1.jpg",
+   "fabric samples 1.jpg"
+  ],
+  [
+   "/images/materials-and-testing/clothe-samples-2.jpg",
+   "clothe samples 2.jpg"
+  ],
+  [
+   "/images/materials-and-testing/clothe-samples.jpg",
+   "clothe samples.png"
+  ],
+  [
+   "/images/materials-and-testing/img-0909.jpg",
+   "IMG_0909.jpg"
+  ],
+  [
+   "/images/materials-and-testing/img-0949.jpg",
+   "IMG_0949.jpg"
+  ],
+  [
+   "/images/materials-and-testing/img-0961.jpg",
+   "IMG_0961.jpg"
+  ],
+  [
+   "/images/materials-and-testing/img-0963.jpg",
+   "IMG_0963.jpg"
+  ],
+  [
+   "/images/materials-and-testing/img-1134.jpg",
+   "IMG_1134.jpg"
+  ],
+  [
+   "/images/materials-and-testing/img-1420.jpg",
+   "IMG_1420.jpg"
+  ],
+  [
+   "/images/materials-and-testing/img-2507.jpg",
+   "IMG_2507.jpg"
+  ],
+  [
+   "/images/materials-and-testing/single-charger.jpg",
+   "single charger.jpg"
+  ],
+  [
+   "/images/materials-and-testing/backpack-size-guide.jpg",
+   "backpack size guide.JPG"
+  ]
+ ],
+ "storefront": [
+  [
+   "/images/storefront/ult-gear-website-mobile.png",
+   "ult gear website mobile.PNG"
+  ],
+  [
+   "/images/storefront/ultralight-travel-venn-diagram.jpg",
+   "ultralight travel venn diagram.jpg"
+  ],
+  [
+   "/images/storefront/ultralight-backpacking-hiking.jpg",
+   "ultralight backpacking hiking.jpg"
+  ]
+ ],
+ "brand": [
+  [
+   "/images/brand/ult-gear-logo-black-no-background.png",
+   "ult gear logo black - no background.png"
+  ],
+  [
+   "/images/brand/ult-gear-logo-white-no-background.png",
+   "ult gear logo white - no background.png"
+  ],
+  [
+   "/images/brand/ult-gear-logo-1500x1500-no-background.png",
+   "ult gear logo - 1500x1500 no background.png"
+  ],
+  [
+   "/images/brand/2023-01-22-08-08-26-png-logo-center-color-facebo.png",
+   "2023-01-22 08_08_26-PNG logo center Color - facebook logo.png.png"
+  ],
+  [
+   "/images/brand/2023-02-15-15-42-41-pdf-versions-ult-gear-with-a.png",
+   "2023-02-15 15_42_41-PDF versions ULT Gear with and without the slogan.pdf - Work - Microsoft\u200b Edge.png"
+  ]
+ ]
+}

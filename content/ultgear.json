@@ -1,0 +1,566 @@
+{
+ "site": {
+  "brand": {
+   "mark_dark": "/images/brand/ult-gear-logo-black-no-background.png",
+   "mark_light": "/images/brand/ult-gear-logo-white-no-background.png",
+   "yellow": "#f8c038",
+   "ink": "#1a2225"
+  },
+  "hero": {
+   "kicker": "2023 – 2024 · Denver, Colorado",
+   "title": "Ultra-light travel gear for the modern explorer.",
+   "text": "ULT Gear was a one-person product lab: about thirty ideas for gear I wished existed, taken as far as tech packs, factory samples and prototypes before the math caught up. This is what got built.",
+   "image": "/images/storefront/ultralight-backpacking-hiking.jpg"
+  },
+  "idea": {
+   "title": "Three tribes, one bag",
+   "text": "Ultralight backpacking, digital nomads, minimalist travel. Three groups buying the same kind of gear from three different aisles. ULT Gear sat in the overlap: one small backpack, ultra-packable clothing, and accessories that disappear when you're not using them.",
+   "image": "/images/storefront/ultralight-travel-venn-diagram.jpg"
+  },
+  "numbers": [
+   [
+    "30",
+    "product ideas"
+   ],
+   [
+    "15",
+    "taken past the sketch"
+   ],
+   [
+    "7",
+    "with samples in hand"
+   ],
+   [
+    "2",
+    "prior-art searches"
+   ],
+   [
+    "1",
+    "shoe designer, 1 apparel designer"
+   ]
+  ],
+  "materials": {
+   "title": "Materials and testing",
+   "text": "Fabric swatches in 50D and 75D, wash-and-dry tests on the kitchen counter, sample orders laid out on the bed, and packing layouts to see what a one-bag kit really looks like.",
+   "images": [
+    "/images/materials-and-testing/2c8c9a8d-7cd5-4660-aa3c-1ab9a53f6bb4.jpg",
+    "/images/materials-and-testing/668edb78-e11f-4152-a24b-e19a74bced3c.jpg",
+    "/images/materials-and-testing/b3ba136e-ef7d-44aa-aa4b-046e519e2911.jpg",
+    "/images/materials-and-testing/fabric-samples-1.jpg",
+    "/images/materials-and-testing/clothe-samples-2.jpg",
+    "/images/materials-and-testing/clothe-samples.jpg",
+    "/images/materials-and-testing/img-0909.jpg",
+    "/images/materials-and-testing/img-0949.jpg",
+    "/images/materials-and-testing/img-0961.jpg",
+    "/images/materials-and-testing/img-0963.jpg",
+    "/images/materials-and-testing/img-1134.jpg",
+    "/images/materials-and-testing/img-1420.jpg",
+    "/images/materials-and-testing/img-2507.jpg",
+    "/images/materials-and-testing/single-charger.jpg",
+    "/images/materials-and-testing/backpack-size-guide.jpg"
+   ]
+  },
+  "storefront": {
+   "title": "Before the products, a store",
+   "text": "ULT Gear launched in 2023 as a curated shop of the best ultralight gear already on the market, with the plan to swap in ULT Gear's own designs as they came off the line. The store ran; the line never came off the line.",
+   "image": "/images/storefront/ult-gear-website-mobile.png"
+  },
+  "ending": {
+   "title": "How it ended",
+   "paras": [
+    "I had about thirty products I wanted. Yes, I know that's insane. That's just how my mind works.",
+    "I took many of these ideas well past the design phase. I worked with clothing and shoe designers to build tech packs, had fabric samples shipped from specialty shops, used a 3D-print shop for hardware components, and a product-design company for the more technical ideas. I built real prototypes for many of them, some of which I still use today, others I can only laugh at.",
+    "But all of these ideas ran into the same problem: cost. A single shoe mold costs about $10k, and a usable prototype would have been $20k minimum. Custom 3D-printed parts were in the thousands just to design. Specialty fabrics were a nightmare to source, and manufacturers had minimum order quantities in the thousands. By the time I added it all up, I was staring down $15k to $25k just to produce one size of a single product.",
+    "Maybe people learn this in business school. I learned it in the real world, and for that, I am moderately grateful."
+   ]
+  },
+  "categories": [
+   "Packable Apparel",
+   "Packable Bags & Day Packs",
+   "Portable Travel Accessories"
+  ],
+  "concepts": [
+   {
+    "title": "Packable Puffer Jacket",
+    "note": "Tech-pack templates gathered, never drawn up."
+   },
+   {
+    "title": "Packable Rain Jacket",
+    "note": "Windbreaker tech packs collected as the starting point."
+   },
+   {
+    "title": "Packable Rain Pants",
+    "note": "Concept only."
+   },
+   {
+    "title": "Convertible Pants",
+    "note": "Zip-off legs. Concept only."
+   },
+   {
+    "title": "Arm and Leg Sleeves",
+    "note": "Winter layering without a second set of clothes."
+   },
+   {
+    "title": "Quick-Dry Merino Travel Socks",
+    "note": "Research on merino blends and silver-ion antibacterial yarns."
+   },
+   {
+    "title": "Quick-Dry Underwear",
+    "note": "Concept only."
+   },
+   {
+    "title": "Minimalist Barefoot Sandals",
+    "note": "Vibram outsole, three straps, under 12 oz. Notes only."
+   },
+   {
+    "title": "Ultralight Backpack",
+    "note": "Feature research: load lifters, mesh suspension, quick-release straps."
+   },
+   {
+    "title": "Hanging Toiletry Bag",
+    "note": "Concept only."
+   },
+   {
+    "title": "USB-Powered Battery Belt",
+    "note": "Prior-art search, February 2023, alongside the heated towel."
+   },
+   {
+    "title": "Ultrapackable Tech Accessories",
+    "note": "Chargers and cables that disappear into the belt or the pack."
+   }
+  ]
+ },
+ "products": [
+  {
+   "slug": "packable-travel-shorts",
+   "title": "Packable Travel Shorts",
+   "category": "Packable Apparel",
+   "status": "Samples in hand · V2",
+   "summary": "Quick-dry shorts that roll into their own back pocket.",
+   "story": "The spec I sent the factory: anti-bacterial quick-dry fabric as thin as swim trunks, two indented zippered side pockets, and one centered back pocket with a double-sided zipper so the shorts pack into themselves. Elastic waistband with a no-show drawstring, elastic belt hooks, a printed tag instead of a sewn one, and an inner hook for hanging. Black, 9-inch inseam. Two sample rounds came back. V2 fixed the waistband, the drawstrings and the belt loops, and I measured every pocket against the shorts I actually travel with.",
+   "wanted": [
+    "Anti-bacterial, lightweight, quick-dry fabric, as thin as swim trunks",
+    "Two zippered side pockets, slightly indented, not on the side seam",
+    "One centered back pocket with a double-sided zipper, so the shorts pack into it",
+    "Elastic waistband with an inner drawstring, plus elastic belt hooks",
+    "Tagless, with care instructions printed and an inner hook for hanging"
+   ],
+   "docs": [
+    "Factory spec and correspondence",
+    "V2 revision notes, annotated photos"
+   ],
+   "hero": "/images/products/packable-travel-shorts/packable-shorts.jpg",
+   "gallery": [
+    "/images/products/packable-travel-shorts/packable-shorts.jpg",
+    "/images/products/packable-travel-shorts/packable-travel-shorts-pocket-placement-1.jpg",
+    "/images/products/packable-travel-shorts/packable-travel-shorts-pocket-placement-2.jpg",
+    "/images/products/packable-travel-shorts/packable-shorts-back-pocket-circled.jpg",
+    "/images/products/packable-travel-shorts/packable-shorts-back-pocket.jpg",
+    "/images/products/packable-travel-shorts/packed-shorts.jpg",
+    "/images/products/packable-travel-shorts/ultralight-travel-shorts-pocket-placement.jpg",
+    "/images/products/packable-travel-shorts/ultralight-travel-shorts.jpg",
+    "/images/products/packable-travel-shorts/pocket-size-1.jpg",
+    "/images/products/packable-travel-shorts/packable-travel-shorts-tagless-design.jpg",
+    "/images/products/packable-travel-shorts/1-waistband-as-is.jpg",
+    "/images/products/packable-travel-shorts/1-waistband-good.jpg",
+    "/images/products/packable-travel-shorts/1-waistband.jpg",
+    "/images/products/packable-travel-shorts/2-drawstrings-as-is.jpg",
+    "/images/products/packable-travel-shorts/2-drawstrings-ideal.jpg",
+    "/images/products/packable-travel-shorts/2-drawstrings.jpg",
+    "/images/products/packable-travel-shorts/3-printed-tag-ideal.jpg",
+    "/images/products/packable-travel-shorts/3-tag-design.jpg",
+    "/images/products/packable-travel-shorts/4-belt-loops.jpg",
+    "/images/products/packable-travel-shorts/4-elastic-belt-loops-ideal.jpg",
+    "/images/products/packable-travel-shorts/5-back-pocket-as-is-packed.jpg",
+    "/images/products/packable-travel-shorts/5-back-pocket-as-is.jpg",
+    "/images/products/packable-travel-shorts/5-packing-pocket-w-double-zipper.jpg",
+    "/images/products/packable-travel-shorts/shorts-tag.jpg",
+    "/images/products/packable-travel-shorts/packed-in-pocket.jpg",
+    "/images/products/packable-travel-shorts/post-packing.jpg",
+    "/images/products/packable-travel-shorts/packable-shorts-3.jpg",
+    "/images/products/packable-travel-shorts/short-options-1.jpg",
+    "/images/products/packable-travel-shorts/short-options-2.jpg",
+    "/images/products/packable-travel-shorts/measuring-shorts.jpg",
+    "/images/products/packable-travel-shorts/packable-short-samples.jpg",
+    "/images/products/packable-travel-shorts/packable-shorts-4.jpg",
+    "/images/products/packable-travel-shorts/packable-shorts-5.png"
+   ]
+  },
+  {
+   "slug": "packable-travel-pants",
+   "title": "Packable Travel Pants",
+   "category": "Packable Apparel",
+   "status": "Samples in hand",
+   "summary": "The pants version of the shorts, with ankle zips so they come off over shoes.",
+   "story": "90% polyester, 10% spandex in the waistband. Two indented zippered side pockets, a double-sided back zipper pocket big enough to pack the pants into, an inner drawstring, belt loops, and ankle-high zippers so they open and come off without taking your shoes off. Tagless, with a hook for hanging. Samples came back in black. The pocket bags were the first thing I turned inside out.",
+   "wanted": [
+    "Ankle zippers so the pants come off over shoes",
+    "Reversible back pocket that doubles as the packing pocket",
+    "Belt loops and an inner drawstring, so they work with or without the belt"
+   ],
+   "docs": [
+    "Factory spec and correspondence"
+   ],
+   "hero": "/images/products/packable-travel-pants/polyester-pants-1.jpg",
+   "gallery": [
+    "/images/products/packable-travel-pants/polyester-pants-1.jpg",
+    "/images/products/packable-travel-pants/pant-pockets-1.jpg",
+    "/images/products/packable-travel-pants/pant-pockets-2.jpg",
+    "/images/products/packable-travel-pants/pant-pockets-3.jpg",
+    "/images/products/packable-travel-pants/pant-pockets-4.jpg",
+    "/images/products/packable-travel-pants/pant-pockets-5.jpg",
+    "/images/products/packable-travel-pants/travel-pants-back-pocket-highlighted.jpg",
+    "/images/products/packable-travel-pants/travel-pants-back-pocket.jpg",
+    "/images/products/packable-travel-pants/screenshot-2023-09-01-075536.jpg",
+    "/images/products/packable-travel-pants/screenshot-2023-09-01-075959.jpg"
+   ]
+  },
+  {
+   "slug": "packable-hoodie",
+   "title": "Ultralight Packable Hoodie",
+   "category": "Packable Apparel",
+   "status": "Tech pack · June 2023",
+   "summary": "A grid-polyester hoodie with a stuff pocket in the upper back, so it packs into itself.",
+   "story": "Designed with Summit Prototyping & Design: a lightweight polyester hoodie with a grid pattern, a half zipper, thumb gaiters, and a pocket sewn into the upper back so the whole thing packs into itself. Men's and women's tech packs, version 1.0, dated June 5, 2023. Before that I bought and lived in the hoodies I admired, KETL and Kühl, to steal the details that mattered: the hanging hook, where the stuff pocket goes, how small they packed.",
+   "wanted": [],
+   "docs": [
+    "Men's and women's tech packs, v1.0, 13 pages each, June 2023",
+    "Design contract with Summit Prototyping & Design, April 2023"
+   ],
+   "hero": "/images/products/packable-hoodie/blue-hoodie.jpg",
+   "gallery": [
+    "/images/products/packable-hoodie/blue-hoodie.jpg",
+    "/images/products/packable-hoodie/techpack-p2.jpg",
+    "/images/products/packable-hoodie/techpack-p3.jpg",
+    "/images/products/packable-hoodie/techpack-p4.jpg",
+    "/images/products/packable-hoodie/techpack-p5.jpg",
+    "/images/products/packable-hoodie/ketl-mtn-hoodie-1.jpg",
+    "/images/products/packable-hoodie/ketl-mtn-hoodie-2.jpg",
+    "/images/products/packable-hoodie/ketl-mtn-hoodie-3.jpg",
+    "/images/products/packable-hoodie/packable-hoodie-and-shirt.jpg",
+    "/images/products/packable-hoodie/2023-04-26-13-42-40-messages.jpg",
+    "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-1.jpg",
+    "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-2.jpg"
+   ]
+  },
+  {
+   "slug": "packable-t-shirt",
+   "title": "Ultralight T-Shirt",
+   "category": "Packable Apparel",
+   "status": "Tech pack · June 2023",
+   "summary": "The companion piece to the hoodie, from the same design round.",
+   "story": "A packable ultralight tee, men's tech pack v1.0 from the same June 2023 round as the hoodie. This is where the apparel line hit the wall: the factory's minimum order was 1,000 units, or 250 each across four styles in one color, men's and women's, four sizes. Fine for a brand. Not fine for one person testing an idea.",
+   "wanted": [],
+   "docs": [
+    "Men's tech pack, v1.0, June 2023",
+    "Minimum-order correspondence"
+   ],
+   "hero": "/images/products/packable-t-shirt/techpack-p2.jpg",
+   "gallery": [
+    "/images/products/packable-t-shirt/techpack-p2.jpg",
+    "/images/products/packable-t-shirt/techpack-p3.jpg",
+    "/images/products/packable-t-shirt/techpack-p4.jpg"
+   ]
+  },
+  {
+   "slug": "hidden-pocket-travel-belt",
+   "title": "Hidden Pocket Travel Belt",
+   "category": "Packable Apparel",
+   "status": "Samples in hand · two design rounds",
+   "summary": "A stretch belt with two zip-sealed hidden pockets and a buckle that stays out of the way.",
+   "story": "A stretch belt with two hidden pockets, a low-profile plastic buckle, and a side adjuster so the pockets never sit under the buckle. I annotated every revision for the factory: where each pocket starts, how the fabric wraps the buckle, and three closure options (an outside zipper, a top zipper, an inside zip-lock). Two rounds of samples came back, then a third design around a double-sided zipper. Two travel products in one, which was the whole point.",
+   "wanted": [
+    "Two hidden pockets, one either side of the buckle, ~38 x 100 mm each",
+    "Single low-profile buckle, 5.3 mm, push-button release",
+    "Belt-size adjuster moved to the side so it never fights the pockets"
+   ],
+   "docs": [
+    "Design V1 and V2 annotation sets",
+    "Double-sided zipper design"
+   ],
+   "hero": "/images/products/hidden-pocket-travel-belt/belt-sample-1.jpg",
+   "gallery": [
+    "/images/products/hidden-pocket-travel-belt/belt-sample-1.jpg",
+    "/images/products/hidden-pocket-travel-belt/1-overview.png",
+    "/images/products/hidden-pocket-travel-belt/2-simple-belt-buckle.png",
+    "/images/products/hidden-pocket-travel-belt/3-two-zip-sealed-hidden-pockets.png",
+    "/images/products/hidden-pocket-travel-belt/4-zip-pocket-details.png",
+    "/images/products/hidden-pocket-travel-belt/5-notes-on-design.png",
+    "/images/products/hidden-pocket-travel-belt/6-side-size-adjuster.png",
+    "/images/products/hidden-pocket-travel-belt/7-overview-recap.png",
+    "/images/products/hidden-pocket-travel-belt/belt-buckle-details.png",
+    "/images/products/hidden-pocket-travel-belt/1-design-overview.png",
+    "/images/products/hidden-pocket-travel-belt/2-buckle-details-1.png",
+    "/images/products/hidden-pocket-travel-belt/3-buckle-details-2.png",
+    "/images/products/hidden-pocket-travel-belt/4-zippered-pocket-1.png",
+    "/images/products/hidden-pocket-travel-belt/5-zippered-pocket-2.png",
+    "/images/products/hidden-pocket-travel-belt/6-zippered-pocket-3.png",
+    "/images/products/hidden-pocket-travel-belt/7-belt-design.png",
+    "/images/products/hidden-pocket-travel-belt/8-back-belt-loop.png",
+    "/images/products/hidden-pocket-travel-belt/belt-design-change-1.jpg",
+    "/images/products/hidden-pocket-travel-belt/belt-design-change-2.jpg",
+    "/images/products/hidden-pocket-travel-belt/belt-design-change-3.jpg",
+    "/images/products/hidden-pocket-travel-belt/belt-pocket-design.jpg",
+    "/images/products/hidden-pocket-travel-belt/pocket-size.png"
+   ]
+  },
+  {
+   "slug": "switchkicks",
+   "title": "SwitchKicks",
+   "category": "Packable Apparel",
+   "status": "Design brief · first-round concepts",
+   "summary": "Modular travel shoes: one lightweight inner shoe, swappable outer shells.",
+   "story": "A sandal-like base shoe that fits inside a thin minimalist shell, with outer shells you swap to change the shoe: sandal or beach, dress, house or lounger, athletic or runner. I hired a footwear designer on a phased ideation process, 14 hours for the base shoe and four uppers, then critique rounds, and got a 25-page travel-footwear brief plus three first-round concepts with lace and laceless inner shoes, mesh, canvas and suede outers, and one-piece EVA soles. A single shoe mold costs about $10k and a usable prototype would have been $20k minimum. That is where it stopped.",
+   "wanted": [],
+   "docs": [
+    "Travel Footwear design brief, 25 pages, May 2023",
+    "SwitchKicks first-round concept designs, 3 concepts",
+    "Phased design invoice: ideation, critique, ideation"
+   ],
+   "hero": "/images/products/switchkicks/concept-p1.jpg",
+   "gallery": [
+    "/images/products/switchkicks/concept-p1.jpg",
+    "/images/products/switchkicks/concept-p2.jpg",
+    "/images/products/switchkicks/concept-p3.jpg",
+    "/images/products/switchkicks/concept-p4.jpg",
+    "/images/products/switchkicks/concept-p5.jpg",
+    "/images/products/switchkicks/brief-p1.jpg",
+    "/images/products/switchkicks/brief-p2.jpg",
+    "/images/products/switchkicks/brief-p3.jpg",
+    "/images/products/switchkicks/brief-p4.jpg"
+   ]
+  },
+  {
+   "slug": "packable-day-pack",
+   "title": "Packable Day Pack",
+   "category": "Packable Bags & Day Packs",
+   "status": "Prototypes in hand · branded",
+   "summary": "The one that got furthest: factory samples with the ULT Gear mark.",
+   "story": "Factory samples in gray and blue with the ULT Gear mark, a double-sided zipper so the whole pack folds into its own top pocket, and a second round with the interior pocket moved and the strap keepers fixed. Real prototypes, in hand, tested on real trips.",
+   "wanted": [
+    "Folds into its own top pocket through a double-sided zipper",
+    "Interior zip pocket relocated after round one",
+    "Branded label on the pocket and the packed pouch"
+   ],
+   "docs": [
+    "Two sample rounds with annotated revisions"
+   ],
+   "hero": "/images/products/packable-day-pack/ult-gear-day-pack-1.jpg",
+   "gallery": [
+    "/images/products/packable-day-pack/ult-gear-day-pack-1.jpg",
+    "/images/products/packable-day-pack/ult-gear-day-pack-2-inner-pocket.jpg",
+    "/images/products/packable-day-pack/ult-gear-day-pack-3-packed-1.jpg",
+    "/images/products/packable-day-pack/ult-gear-day-pack-3-packed-2.jpg",
+    "/images/products/packable-day-pack/day-pack-1.jpg",
+    "/images/products/packable-day-pack/day-pack-2.jpg",
+    "/images/products/packable-day-pack/day-pack-3.jpg",
+    "/images/products/packable-day-pack/day-pack-4.jpg",
+    "/images/products/packable-day-pack/day-pack-5.jpg",
+    "/images/products/packable-day-pack/packable-backpack-1.jpg",
+    "/images/products/packable-day-pack/packable-backpack-2.jpg",
+    "/images/products/packable-day-pack/3f52e741-85fa-4515-b190-e293a2677f04.jpg",
+    "/images/products/packable-day-pack/3b190f16-695f-4996-8b6b-515ce91cccd2.jpg",
+    "/images/products/packable-day-pack/49fc87b4-1a39-4c30-acb3-fc0c38b3d987.jpg",
+    "/images/products/packable-day-pack/4e44e770-1278-4a18-a36f-2f702a77f990.jpg",
+    "/images/products/packable-day-pack/80d17b4b-9e44-4997-a3ea-31a14495e665.jpg",
+    "/images/products/packable-day-pack/9c4e4af1-9d39-4dd8-8911-d948bc37c037.jpg",
+    "/images/products/packable-day-pack/img-6577.jpg",
+    "/images/products/packable-day-pack/a8d46043-519e-4b55-8d76-2fa7eb4fb383.jpg",
+    "/images/products/packable-day-pack/da698438-c661-43e9-81bb-319c5ce16c0e.jpg",
+    "/images/products/packable-day-pack/img-1891.jpg",
+    "/images/products/packable-day-pack/img-3435.jpg",
+    "/images/products/packable-day-pack/img-2157.jpg",
+    "/images/products/packable-day-pack/img-2158.jpg",
+    "/images/products/packable-day-pack/img-2160.jpg"
+   ]
+  },
+  {
+   "slug": "packable-waist-pack",
+   "title": "Packable Waist Pack",
+   "category": "Packable Bags & Day Packs",
+   "status": "Samples in hand",
+   "summary": "Same idea, smaller: a waist pack that zips into its own pocket.",
+   "story": "The day pack's little sibling. Two samples from the same factory, both packing into their own pocket.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/packable-waist-pack/ult-gear-waist-pack-1.jpg",
+   "gallery": [
+    "/images/products/packable-waist-pack/ult-gear-waist-pack-1.jpg",
+    "/images/products/packable-waist-pack/ult-gear-waist-pack-2-packed.jpg",
+    "/images/products/packable-waist-pack/waist-pack-1.jpg",
+    "/images/products/packable-waist-pack/waist-pack-2.jpg",
+    "/images/products/packable-waist-pack/waist-pack-3.jpg"
+   ]
+  },
+  {
+   "slug": "security-chest-sling",
+   "title": "Security Chest Sling",
+   "category": "Packable Bags & Day Packs",
+   "status": "Designed",
+   "summary": "A packable anti-theft sling that sits flat against the chest.",
+   "story": "A packable anti-theft sling with the pocket opening against the body, so nobody else can open it. It started as my own sketches and ended as a spec drawing from a designer: 10.5 by 5.25 inches, packs into its own pouch through the bottom zipper, with a ladder-lock or buckle slider on the strap.",
+   "wanted": [],
+   "docs": [
+    "Design drawing with packable view and hardware options"
+   ],
+   "hero": "/images/products/security-chest-sling/design-p1.jpg",
+   "gallery": [
+    "/images/products/security-chest-sling/design-p1.jpg",
+    "/images/products/security-chest-sling/security-chest-sling-1.jpg",
+    "/images/products/security-chest-sling/security-chest-sling-2.jpg",
+    "/images/products/security-chest-sling/security-chest-sling-strap-comparison.jpg",
+    "/images/products/security-chest-sling/packable-hoodie-pocket-placement-1.jpg"
+   ]
+  },
+  {
+   "slug": "keychain-tote-bag",
+   "title": "Keychain Tote Bag",
+   "category": "Packable Bags & Day Packs",
+   "status": "Designed",
+   "summary": "A 40 by 60 cm tote that folds into an 8 cm disc on a carabiner.",
+   "story": "A full-size tote that folds into an 8 by 8 by 2 cm disc with a plastic carabiner hook, using the same double-sided zipper trick as the day pack. Spec'd for the factory with dimensions and pocket placement. Never sampled.",
+   "wanted": [],
+   "docs": [
+    "Five-page factory spec"
+   ],
+   "hero": "/images/products/keychain-tote-bag/1.png",
+   "gallery": [
+    "/images/products/keychain-tote-bag/1.png",
+    "/images/products/keychain-tote-bag/2.png",
+    "/images/products/keychain-tote-bag/3.png",
+    "/images/products/keychain-tote-bag/4.png",
+    "/images/products/keychain-tote-bag/5.png"
+   ]
+  },
+  {
+   "slug": "universal-drying-rack",
+   "title": "Universal Drying Rack",
+   "category": "Portable Travel Accessories",
+   "status": "Prototypes · several",
+   "summary": "A clothes-drying rack that collapses into a tube the size of a phone tripod.",
+   "story": "The product I chased longest. Wire hangers, snake-arm brackets, three rounds of 3D-printed connectors, carbon-fiber rods, and a photo-tripod base from Ulanzi as the platform. The drawing shows the goal: a hanging rack that folds down like a kaleidoscope tube. I got an injection-molding overview from Protolabs for the connector. Custom 3D-printed parts ran into the thousands just to design properly, and that was the end of the road.",
+   "wanted": [
+    "Collapses into a tube, like a portable phone stand",
+    "Hangs from a door, a rail or a tripod base",
+    "Holds a full load of hand-washed clothes"
+   ],
+   "docs": [
+    "Protolabs injection-molding overview",
+    "Pole layout drawing, v2.0"
+   ],
+   "hero": "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
+   "gallery": [
+    "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
+    "/images/products/universal-drying-rack/drying-rack-1.jpg",
+    "/images/products/universal-drying-rack/drying-rack-2-0-pole-layout.png",
+    "/images/products/universal-drying-rack/screenshot-2024-05-04-164722.png",
+    "/images/products/universal-drying-rack/screenshot-2024-05-07-071048.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-11-32-carbon-fiber-tube-connector-.png",
+    "/images/products/universal-drying-rack/2023-03-28-08-10-38-camping-umbrella-hooks-hangi.png",
+    "/images/products/universal-drying-rack/2023-03-28-08-10-49-camping-umbrella-hooks-hangi.png",
+    "/images/products/universal-drying-rack/portable-hanger-1.jpg",
+    "/images/products/universal-drying-rack/portable-hanger-2.jpg",
+    "/images/products/universal-drying-rack/attempt-1.png",
+    "/images/products/universal-drying-rack/attempt-2.png",
+    "/images/products/universal-drying-rack/attempt-3.png",
+    "/images/products/universal-drying-rack/blue-connector.jpg",
+    "/images/products/universal-drying-rack/gray-connector.jpg",
+    "/images/products/universal-drying-rack/hanger-1.png",
+    "/images/products/universal-drying-rack/stacked-hanger.jpg",
+    "/images/products/universal-drying-rack/travel-drying-rack-v2.jpg",
+    "/images/products/universal-drying-rack/ulanzi-mt-44-and-tp-02-base-only.jpg",
+    "/images/products/universal-drying-rack/ulanzi-mt-44-base-only.jpg"
+   ]
+  },
+  {
+   "slug": "packable-wash-basin",
+   "title": "Packable Wash Basin",
+   "category": "Portable Travel Accessories",
+   "status": "Design V2 · sample tested",
+   "summary": "A 10-liter wash basin that packs down to a 6 by 16 cm pouch.",
+   "story": "A foldable basin for washing clothes on the road without a sink: 10 liters, 70D ripstop over a PU-coated waterproof liner, two carrying handles, a bottom handle for emptying, and a zippered pocket sewn into the edge so the whole thing packs down to a pouch. I tested an off-the-shelf basin in the sink first, then spec'd V1 and a modified V2 with a carrying case.",
+   "wanted": [
+    "10 L capacity, lightweight waterproof fabric",
+    "Zippered pocket on the edge so it packs into itself",
+    "Packs to roughly 6 x 16 cm"
+   ],
+   "docs": [
+    "V1 spec, four pages",
+    "V2 spec with fabric types and carrying case"
+   ],
+   "hero": "/images/products/packable-wash-basin/portable-wash-basin-1.jpg",
+   "gallery": [
+    "/images/products/packable-wash-basin/portable-wash-basin-1.jpg",
+    "/images/products/packable-wash-basin/portable-wash-basin-2.png",
+    "/images/products/packable-wash-basin/1.png",
+    "/images/products/packable-wash-basin/2.png",
+    "/images/products/packable-wash-basin/3.png",
+    "/images/products/packable-wash-basin/4.png",
+    "/images/products/packable-wash-basin/1-portable-wash-basin-v2.png",
+    "/images/products/packable-wash-basin/2-fabric-types.png",
+    "/images/products/packable-wash-basin/3-pocket-design.png",
+    "/images/products/packable-wash-basin/4-pocket-design-2.png",
+    "/images/products/packable-wash-basin/5-carrying-case.png",
+    "/images/products/packable-wash-basin/6-packed-design.png",
+    "/images/products/packable-wash-basin/laundry-bag.jpg"
+   ]
+  },
+  {
+   "slug": "minimalist-wallet",
+   "title": "Minimalist Wallet",
+   "category": "Portable Travel Accessories",
+   "status": "Samples in hand",
+   "summary": "Aluminum card-holder samples, ordered to check size and finish.",
+   "story": "Aluminum card holders with a money clip, sampled to compare size and finish against the wallets I had been carrying. A small one, but it was in the bag.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/minimalist-wallet/wallet-1.jpg",
+   "gallery": [
+    "/images/products/minimalist-wallet/wallet-1.jpg",
+    "/images/products/minimalist-wallet/wallet-2.jpg"
+   ]
+  },
+  {
+   "slug": "packable-beach-blanket",
+   "title": "Packable Beach Blanket",
+   "category": "Portable Travel Accessories",
+   "status": "Tested",
+   "summary": "A pocket blanket that stuffs into its own corner pocket.",
+   "story": "A ground blanket that stuffs into its own corner pocket. I bought and tested the best of the category before deciding whether there was room for ULT Gear to improve on it.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/packable-beach-blanket/pocket-travel-blanket-corner-marked.jpg",
+   "gallery": [
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-corner-marked.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-corner.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-packed.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-zipper.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-bag-sew-line.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-bag.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-logo.jpg",
+    "/images/products/packable-beach-blanket/pocket-travel-blanket.jpg"
+   ]
+  },
+  {
+   "slug": "self-drying-towel",
+   "title": "Heated Self-Drying Towel",
+   "category": "Portable Travel Accessories",
+   "status": "Patent search · design proposal",
+   "summary": "A towel with carbon-fiber heating elements and a wireless charging tag.",
+   "story": "A towel with carbon-fiber heating elements and a magnetic wireless charging tag, so it dries itself in a hostel bathroom. I ran automated prior-art searches in January and February 2023 and got a research-and-ideation proposal from a product design firm. The same searches covered a USB-powered belt as a portable power source for heated clothing. Neither went further than paper, which, for a heated towel, was probably the right call.",
+   "wanted": [],
+   "docs": [
+    "Prior-art search reports, January and February 2023",
+    "Research and ideation proposal from a product design firm"
+   ],
+   "hero": "/images/products/self-drying-towel/bath-towel-1.jpg",
+   "gallery": [
+    "/images/products/self-drying-towel/bath-towel-1.jpg",
+    "/images/products/self-drying-towel/bath-towel-ink-art.jpg",
+    "/images/products/self-drying-towel/hand-towel-2.jpg",
+    "/images/products/self-drying-towel/hand-towel-ink-art.jpg",
+    "/images/products/self-drying-towel/toothbrush-charger.jpg"
+   ]
+  }
+ ]
+}
