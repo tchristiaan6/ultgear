@@ -35,13 +35,13 @@
     "prior-art searches"
    ],
    [
-    "1",
-    "shoe designer, 1 apparel designer"
+    "5",
+    "partners across 4 countries"
    ]
   ],
   "materials": {
    "title": "Materials and testing",
-   "text": "Fabric swatches in 50D and 75D, wash-and-dry tests on the kitchen counter, sample orders laid out on the bed, and packing layouts to see what a one-bag kit really looks like.",
+   "text": "Before designing anything technical I tested what already existed: staining and cleaning tests, heating and drying tests, packing and wrinkle tests. Fabric swatches in 50D and 75D, sample orders laid out on the bed, packing layouts to see what a one-bag kit really looks like, and sketches of what a heated system might be.",
    "images": [
     "/images/materials-and-testing/2c8c9a8d-7cd5-4660-aa3c-1ab9a53f6bb4.jpg",
     "/images/materials-and-testing/668edb78-e11f-4152-a24b-e19a74bced3c.jpg",
@@ -57,7 +57,11 @@
     "/images/materials-and-testing/img-1420.jpg",
     "/images/materials-and-testing/img-2507.jpg",
     "/images/materials-and-testing/single-charger.jpg",
-    "/images/materials-and-testing/backpack-size-guide.jpg"
+    "/images/materials-and-testing/backpack-size-guide.jpg",
+    "/images/materials-and-testing/sketch-img_2407.jpg",
+    "/images/materials-and-testing/sketch-img_2408.jpg",
+    "/images/materials-and-testing/sketch-img_2409.jpg",
+    "/images/materials-and-testing/sketch-img_2410.jpg"
    ]
   },
   "storefront": {
@@ -117,8 +121,8 @@
     "note": "Feature research: load lifters, mesh suspension, quick-release straps."
    },
    {
-    "title": "Hanging Toiletry Bag",
-    "note": "Concept only."
+    "title": "Free-standing Toiletry Bag",
+    "note": "For hostel bathrooms with no counter space. Concept and sample test."
    },
    {
     "title": "USB-Powered Battery Belt",
@@ -127,8 +131,80 @@
    {
     "title": "Ultrapackable Tech Accessories",
     "note": "Chargers and cables that disappear into the belt or the pack."
+   },
+   {
+    "title": "Ultralight Waterproof Clip-on Bags",
+    "note": "Small dry bags that clip to the outside of the pack."
+   },
+   {
+    "title": "Packable Heating Pad",
+    "note": "A pad to dry clothes on; bench-tested with a heating element and thermostat."
+   },
+   {
+    "title": "Packable Heated Hanger",
+    "note": "Concept only."
+   },
+   {
+    "title": "Heated Clothing",
+    "note": "Concept, tied to the USB battery belt as the power source."
+   },
+   {
+    "title": "Portable Ultrasonic Cleaner",
+    "note": "For washing clothes in a basin. Concept only."
    }
-  ]
+  ],
+  "partners": "Product designers in Atlanta. A 3D print shop in Denver. Manufacturers in China. Material sourcers in Switzerland. Two shoe designers. One clothing designer.",
+  "story": {
+   "title": "How it went",
+   "chapters": [
+    {
+     "n": "01",
+     "h": "Clothing first",
+     "t": [
+      "I started with clothing because it seemed like the simplest. I wanted one of everything: ULT-branded hoodies, shirts, shorts, socks. Quick-dry, anti-wrinkle, anti-stain, built-in packing pockets, multiple zippered pockets. Basically every feature I look for in travel gear, in every piece of clothing, tailored to minimalist travel.",
+      "I learned about tech packs, material sourcing and MOQs. Some ideas died because I couldn't find or get the materials I wanted. Some died because I found existing products already doing it better. Some died because it's nearly impossible to express a clear idea to a manufacturer through text and images, and US-based manufacturing was too expensive. Many died from minimum order quantities. Shipping played a role too: sending material samples and prototypes back and forth meant two to three months for a single prototype, so improvements and iterations would have taken years."
+     ]
+    },
+    {
+     "n": "02",
+     "h": "Bags, in parallel",
+     "t": [
+      "At the same time I worked on a few backpack, day pack and sling bag concepts, and ran into the same issues: rare, unavailable or prohibitively expensive materials, long wait times, and existing brands that weren't perfect but already had recognition and a cult following. These died for similar reasons."
+     ]
+    },
+    {
+     "n": "03",
+     "h": "Physical products",
+     "t": [
+      "I had a number of physical product concepts too, and pursued a few: ultralight waterproof clip-on bags, a security belt that combined my favorite travel features (no metal, stretchy cloth, hidden security pockets), an ultra-portable drying rack for the perennial problem of nowhere to hang clothes in hotels and hostels, a packable picnic and beach blanket, a free-standing toiletry bag for hostel bathrooms with no counter space, and a packable wash basin for doing laundry in the sink.",
+      "I followed a similar path: product designers in Atlanta, a 3D print shop in Denver, manufacturers in China, material sourcers in Switzerland. The same constraints came up. Rare materials, manufacturing minimums, long prototyping timelines, and the cost of prototypes and components."
+     ]
+    },
+    {
+     "n": "04",
+     "h": "The technical ones",
+     "t": [
+      "A number of concepts were technical: a packable heating pad for drying clothes, a packable heated hanger, heated clothing in general, a portable ultrasonic cleaner for washing clothes. Some required technology I knew existed in other products, but I wasn't sure I could adapt it to mine. So I started by testing existing products to see if they worked as advertised: staining and cleaning tests, heating and drying tests, packing and wrinkle tests.",
+      "I spent a good amount of time figuring out what was possible, technically and legally. Could I license certain tech? Could I change something enough that it wasn't patent infringement? Did I need patents? Did patents already exist? For many of these, most of the work was finding out whether the concept was possible and worth pursuing."
+     ]
+    },
+    {
+     "n": "05",
+     "h": "SwitchKicks",
+     "t": [
+      "One project I spent a lot of time on was SwitchKicks. Shoes have always been a problem for travelers. At minimum you need sandals, hiking shoes and casual shoes on the road, and ideally a dressier pair, a higher-ankle hiking shoe, and a cold-weather shoe if your travels cross climates. So I wondered whether I could build a layered shoe system: a minimalist base shoe for the beach or barefoot running, with slip-on layers that change the utility or the style. Colored patterns and materials for looks, an adjustable base for traction.",
+      "I worked with a couple of shoe designers to get the concept down. It died when I learned a single shoe mold, one size of one style, runs $10k to $12k. For a concept built on a flexible base plus layers plus materials plus outsoles, that meant something like $500k to $1M in R&D before anyone could try one on."
+     ]
+    },
+    {
+     "n": "06",
+     "h": "Why it ended",
+     "t": [
+      "All of the ideas died from cost, time, and the slow realization that I was building for a market of one: me. I do believe I could have found customers and built a new market. But without a lot of money, it was never going to happen."
+     ]
+    }
+   ]
+  }
  },
  "products": [
   {
@@ -543,19 +619,24 @@
   },
   {
    "slug": "self-drying-towel",
-   "title": "Heated Self-Drying Towel",
+   "title": "Heated Drying: Towel, Pad, Hanger",
    "category": "Portable Travel Accessories",
-   "status": "Patent search · design proposal",
-   "summary": "A towel with carbon-fiber heating elements and a wireless charging tag.",
-   "story": "A towel with carbon-fiber heating elements and a magnetic wireless charging tag, so it dries itself in a hostel bathroom. I ran automated prior-art searches in January and February 2023 and got a research-and-ideation proposal from a product design firm. The same searches covered a USB-powered belt as a portable power source for heated clothing. Neither went further than paper, which, for a heated towel, was probably the right call.",
+   "status": "Patent searches · bench tests · design proposal",
+   "summary": "Carbon-fiber heating for drying towels and clothes on the road, plus a heated hanger and heated clothing.",
+   "story": "A family of ideas around one problem: wet clothes and towels in a hostel room with nowhere to dry them. A towel with carbon-fiber heating elements and a magnetic wireless charging tag. A packable heating pad you lay clothes on. A packable heated hanger. Heated clothing in general. Some of it needed technology I knew existed in other products, and I wasn't sure I could adapt it to mine, so I started by testing what was already out there: heating and drying tests on a bench, with a thermostat and a clear tub. I ran automated prior-art searches in January and February 2023, got a research-and-ideation proposal from a product design firm, and spent most of the time on the legal questions: could I license the tech, could I change it enough to avoid a patent, did I need patents of my own. The same searches covered a USB-powered belt as a portable power source for heated clothing. None of it went further than the bench.",
    "wanted": [],
    "docs": [
     "Prior-art search reports, January and February 2023",
-    "Research and ideation proposal from a product design firm"
+    "Research and ideation proposal from a product design firm",
+    "Bench test photos: heating element, clear tub, thermostat"
    ],
    "hero": "/images/products/self-drying-towel/bath-towel-1.jpg",
    "gallery": [
     "/images/products/self-drying-towel/bath-towel-1.jpg",
+    "/images/products/self-drying-towel/heating-mat-test-img_2492.jpg",
+    "/images/products/self-drying-towel/heating-mat-test-img_2493.jpg",
+    "/images/products/self-drying-towel/heating-mat-test-img_2494.jpg",
+    "/images/products/self-drying-towel/heating-mat-test-img_2495.jpg",
     "/images/products/self-drying-towel/bath-towel-ink-art.jpg",
     "/images/products/self-drying-towel/hand-towel-2.jpg",
     "/images/products/self-drying-towel/hand-towel-ink-art.jpg",

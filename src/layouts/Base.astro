@@ -4,7 +4,7 @@ import { site } from '../lib/data';
 const { title, description = "ULT Gear: a one-person ultralight travel gear lab, 2023 to 2024. Tech packs, factory samples, prototypes, and what it cost.", image = site.hero.image, type = 'website' } = Astro.props;
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const canonical = new URL(Astro.url.pathname, Astro.site);
-const nav = [{ label: 'Products', href: '/#products' }, { label: 'Materials', href: '/#materials' }, { label: 'The store', href: '/#storefront' }, { label: 'How it ended', href: '/#ending' }];
+const nav = [{ label: 'Products', href: '/#products' }, { label: 'Materials', href: '/#materials' }, { label: 'The store', href: '/#storefront' }, { label: 'The story', href: '/#story' }];
 ---
 <!doctype html>
 <html lang="en">
