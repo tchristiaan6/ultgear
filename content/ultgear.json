@@ -23,7 +23,7 @@
     "product ideas"
    ],
    [
-    "15",
+    "13",
     "taken past the sketch"
    ],
    [
@@ -163,6 +163,43 @@
      "t": [
       "I started with clothing because it seemed like the simplest. I wanted one of everything: ULT-branded hoodies, shirts, shorts, socks. Quick-dry, anti-wrinkle, anti-stain, built-in packing pockets, multiple zippered pockets. Basically every feature I look for in travel gear, in every piece of clothing, tailored to minimalist travel.",
       "I learned about tech packs, material sourcing and MOQs. Some ideas died because I couldn't find or get the materials I wanted. Some died because I found existing products already doing it better. Some died because it's nearly impossible to express a clear idea to a manufacturer through text and images, and US-based manufacturing was too expensive. Many died from minimum order quantities. Shipping played a role too: sending material samples and prototypes back and forth meant two to three months for a single prototype, so improvements and iterations would have taken years."
+     ],
+     "id": "clothing",
+     "products": [
+      "packable-travel-shorts",
+      "packable-travel-pants",
+      "packable-hoodie",
+      "packable-t-shirt"
+     ],
+     "concepts": [
+      {
+       "title": "Packable Puffer Jacket",
+       "note": "Tech-pack templates gathered, never drawn up."
+      },
+      {
+       "title": "Packable Rain Jacket",
+       "note": "Windbreaker tech packs collected as the starting point."
+      },
+      {
+       "title": "Packable Rain Pants",
+       "note": "Concept only."
+      },
+      {
+       "title": "Convertible Pants",
+       "note": "Zip-off legs. Concept only."
+      },
+      {
+       "title": "Arm and Leg Sleeves",
+       "note": "Winter layering without a second set of clothes."
+      },
+      {
+       "title": "Quick-Dry Merino Travel Socks",
+       "note": "Research on merino blends and silver-ion antibacterial yarns."
+      },
+      {
+       "title": "Quick-Dry Underwear",
+       "note": "Concept only."
+      }
      ]
     },
     {
@@ -170,6 +207,22 @@
      "h": "Bags, in parallel",
      "t": [
       "At the same time I worked on a few backpack, day pack and sling bag concepts, and ran into the same issues: rare, unavailable or prohibitively expensive materials, long wait times, and existing brands that weren't perfect but already had recognition and a cult following. These died for similar reasons."
+     ],
+     "id": "bags",
+     "products": [
+      "packable-day-pack",
+      "packable-waist-pack",
+      "security-chest-sling"
+     ],
+     "concepts": [
+      {
+       "title": "Ultralight Backpack",
+       "note": "Feature research: load lifters, mesh suspension, quick-release straps."
+      },
+      {
+       "title": "Ultralight Waterproof Clip-on Bags",
+       "note": "Small dry bags that clip to the outside of the pack."
+      }
      ]
     },
     {
@@ -178,6 +231,23 @@
      "t": [
       "I had a number of physical product concepts too, and pursued a few: ultralight waterproof clip-on bags, a security belt that combined my favorite travel features (no metal, stretchy cloth, hidden security pockets), an ultra-portable drying rack for the perennial problem of nowhere to hang clothes in hotels and hostels, a packable picnic and beach blanket, a free-standing toiletry bag for hostel bathrooms with no counter space, and a packable wash basin for doing laundry in the sink.",
       "I followed a similar path: product designers in Atlanta, a 3D print shop in Denver, manufacturers in China, material sourcers in Switzerland. The same constraints came up. Rare materials, manufacturing minimums, long prototyping timelines, and the cost of prototypes and components."
+     ],
+     "id": "physical",
+     "products": [
+      "hidden-pocket-travel-belt",
+      "universal-drying-rack",
+      "packable-wash-basin",
+      "packable-beach-blanket"
+     ],
+     "concepts": [
+      {
+       "title": "Free-standing Toiletry Bag",
+       "note": "For hostel bathrooms with no counter space. Concept and sample test."
+      },
+      {
+       "title": "Ultrapackable Tech Accessories",
+       "note": "Chargers and cables that disappear into the belt or the pack."
+      }
      ]
     },
     {
@@ -186,7 +256,34 @@
      "t": [
       "A number of concepts were technical: a packable heating pad for drying clothes, a packable heated hanger, heated clothing in general, a portable ultrasonic cleaner for washing clothes. Some required technology I knew existed in other products, but I wasn't sure I could adapt it to mine. So I started by testing existing products to see if they worked as advertised: staining and cleaning tests, heating and drying tests, packing and wrinkle tests.",
       "I spent a good amount of time figuring out what was possible, technically and legally. Could I license certain tech? Could I change something enough that it wasn't patent infringement? Did I need patents? Did patents already exist? For many of these, most of the work was finding out whether the concept was possible and worth pursuing."
-     ]
+     ],
+     "id": "technical",
+     "products": [
+      "self-drying-towel"
+     ],
+     "concepts": [
+      {
+       "title": "Packable Heating Pad",
+       "note": "A pad to dry clothes on; bench-tested with a heating element and thermostat."
+      },
+      {
+       "title": "Packable Heated Hanger",
+       "note": "Concept only."
+      },
+      {
+       "title": "Heated Clothing",
+       "note": "Concept, tied to the USB battery belt as the power source."
+      },
+      {
+       "title": "Portable Ultrasonic Cleaner",
+       "note": "For washing clothes in a basin. Concept only."
+      },
+      {
+       "title": "USB-Powered Battery Belt",
+       "note": "Prior-art search, February 2023, alongside the heated towel."
+      }
+     ],
+     "materials": true
     },
     {
      "n": "05",
@@ -194,6 +291,16 @@
      "t": [
       "One project I spent a lot of time on was SwitchKicks. Shoes have always been a problem for travelers. At minimum you need sandals, hiking shoes and casual shoes on the road, and ideally a dressier pair, a higher-ankle hiking shoe, and a cold-weather shoe if your travels cross climates. So I wondered whether I could build a layered shoe system: a minimalist base shoe for the beach or barefoot running, with slip-on layers that change the utility or the style. Colored patterns and materials for looks, an adjustable base for traction.",
       "I worked with a couple of shoe designers to get the concept down. It died when I learned a single shoe mold, one size of one style, runs $10k to $12k. For a concept built on a flexible base plus layers plus materials plus outsoles, that meant something like $500k to $1M in R&D before anyone could try one on."
+     ],
+     "id": "switchkicks",
+     "products": [
+      "switchkicks"
+     ],
+     "concepts": [
+      {
+       "title": "Minimalist Barefoot Sandals",
+       "note": "Vibram outsole, three straps, under 12 oz. Notes only."
+      }
      ]
     },
     {
@@ -201,7 +308,10 @@
      "h": "Why it ended",
      "t": [
       "All of the ideas died from cost, time, and the slow realization that I was building for a market of one: me. I do believe I could have found customers and built a new market. But without a lot of money, it was never going to happen."
-     ]
+     ],
+     "id": "ending",
+     "products": [],
+     "concepts": []
     }
    ]
   }
@@ -489,26 +599,6 @@
    ]
   },
   {
-   "slug": "keychain-tote-bag",
-   "title": "Keychain Tote Bag",
-   "category": "Packable Bags & Day Packs",
-   "status": "Designed",
-   "summary": "A 40 by 60 cm tote that folds into an 8 cm disc on a carabiner.",
-   "story": "A full-size tote that folds into an 8 by 8 by 2 cm disc with a plastic carabiner hook, using the same double-sided zipper trick as the day pack. Spec'd for the factory with dimensions and pocket placement. Never sampled.",
-   "wanted": [],
-   "docs": [
-    "Five-page factory spec"
-   ],
-   "hero": "/images/products/keychain-tote-bag/1.png",
-   "gallery": [
-    "/images/products/keychain-tote-bag/1.png",
-    "/images/products/keychain-tote-bag/2.png",
-    "/images/products/keychain-tote-bag/3.png",
-    "/images/products/keychain-tote-bag/4.png",
-    "/images/products/keychain-tote-bag/5.png"
-   ]
-  },
-  {
    "slug": "universal-drying-rack",
    "title": "Universal Drying Rack",
    "category": "Portable Travel Accessories",
@@ -579,21 +669,6 @@
     "/images/products/packable-wash-basin/5-carrying-case.png",
     "/images/products/packable-wash-basin/6-packed-design.png",
     "/images/products/packable-wash-basin/laundry-bag.jpg"
-   ]
-  },
-  {
-   "slug": "minimalist-wallet",
-   "title": "Minimalist Wallet",
-   "category": "Portable Travel Accessories",
-   "status": "Samples in hand",
-   "summary": "Aluminum card-holder samples, ordered to check size and finish.",
-   "story": "Aluminum card holders with a money clip, sampled to compare size and finish against the wallets I had been carrying. A small one, but it was in the bag.",
-   "wanted": [],
-   "docs": [],
-   "hero": "/images/products/minimalist-wallet/wallet-1.jpg",
-   "gallery": [
-    "/images/products/minimalist-wallet/wallet-1.jpg",
-    "/images/products/minimalist-wallet/wallet-2.jpg"
    ]
   },
   {
