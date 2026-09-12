@@ -23,7 +23,7 @@
     "product ideas"
    ],
    [
-    "13",
+    "14",
     "taken past the sketch"
    ],
    [
@@ -49,8 +49,6 @@
     "/images/materials-and-testing/fabric-samples-1.jpg",
     "/images/materials-and-testing/clothe-samples-2.jpg",
     "/images/materials-and-testing/clothe-samples.jpg",
-    "/images/materials-and-testing/img-0909.jpg",
-    "/images/materials-and-testing/img-0949.jpg",
     "/images/materials-and-testing/img-0961.jpg",
     "/images/materials-and-testing/img-0963.jpg",
     "/images/materials-and-testing/img-1134.jpg",
@@ -147,10 +145,6 @@
    {
     "title": "Heated Clothing",
     "note": "Concept, tied to the USB battery belt as the power source."
-   },
-   {
-    "title": "Portable Ultrasonic Cleaner",
-    "note": "For washing clothes in a basin. Concept only."
    }
   ],
   "partners": "Product designers in Atlanta. A 3D print shop in Denver. Manufacturers in China. Material sourcers in Switzerland. Two shoe designers. One clothing designer.",
@@ -259,7 +253,8 @@
      ],
      "id": "technical",
      "products": [
-      "self-drying-towel"
+      "self-drying-towel",
+      "portable-ultrasonic-cleaner"
      ],
      "concepts": [
       {
@@ -273,10 +268,6 @@
       {
        "title": "Heated Clothing",
        "note": "Concept, tied to the USB battery belt as the power source."
-      },
-      {
-       "title": "Portable Ultrasonic Cleaner",
-       "note": "For washing clothes in a basin. Concept only."
       },
       {
        "title": "USB-Powered Battery Belt",
@@ -387,14 +378,14 @@
    "docs": [
     "Factory spec and correspondence"
    ],
-   "hero": "/images/products/packable-travel-pants/polyester-pants-1.jpg",
+   "hero": "/images/products/packable-travel-pants/pant-pockets-5.jpg",
    "gallery": [
+    "/images/products/packable-travel-pants/pant-pockets-5.jpg",
     "/images/products/packable-travel-pants/polyester-pants-1.jpg",
     "/images/products/packable-travel-pants/pant-pockets-1.jpg",
     "/images/products/packable-travel-pants/pant-pockets-2.jpg",
     "/images/products/packable-travel-pants/pant-pockets-3.jpg",
     "/images/products/packable-travel-pants/pant-pockets-4.jpg",
-    "/images/products/packable-travel-pants/pant-pockets-5.jpg",
     "/images/products/packable-travel-pants/travel-pants-back-pocket-highlighted.jpg",
     "/images/products/packable-travel-pants/travel-pants-back-pocket.jpg",
     "/images/products/packable-travel-pants/screenshot-2023-09-01-075536.jpg",
@@ -413,8 +404,9 @@
     "Men's and women's tech packs, v1.0, 13 pages each, June 2023",
     "Design contract with Summit Prototyping & Design, April 2023"
    ],
-   "hero": "/images/products/packable-hoodie/blue-hoodie.jpg",
+   "hero": "/images/products/packable-hoodie/pocket-placement-1.jpg",
    "gallery": [
+    "/images/products/packable-hoodie/pocket-placement-1.jpg",
     "/images/products/packable-hoodie/blue-hoodie.jpg",
     "/images/products/packable-hoodie/techpack-p2.jpg",
     "/images/products/packable-hoodie/techpack-p3.jpg",
@@ -594,8 +586,7 @@
     "/images/products/security-chest-sling/design-p1.jpg",
     "/images/products/security-chest-sling/security-chest-sling-1.jpg",
     "/images/products/security-chest-sling/security-chest-sling-2.jpg",
-    "/images/products/security-chest-sling/security-chest-sling-strap-comparison.jpg",
-    "/images/products/security-chest-sling/packable-hoodie-pocket-placement-1.jpg"
+    "/images/products/security-chest-sling/security-chest-sling-strap-comparison.jpg"
    ]
   },
   {
@@ -614,10 +605,10 @@
     "Protolabs injection-molding overview",
     "Pole layout drawing, v2.0"
    ],
-   "hero": "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
+   "hero": "/images/products/universal-drying-rack/drying-rack-1.jpg",
    "gallery": [
-    "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
     "/images/products/universal-drying-rack/drying-rack-1.jpg",
+    "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
     "/images/products/universal-drying-rack/drying-rack-2-0-pole-layout.png",
     "/images/products/universal-drying-rack/screenshot-2024-05-04-164722.png",
     "/images/products/universal-drying-rack/screenshot-2024-05-07-071048.png",
@@ -654,8 +645,9 @@
     "V1 spec, four pages",
     "V2 spec with fabric types and carrying case"
    ],
-   "hero": "/images/products/packable-wash-basin/portable-wash-basin-1.jpg",
+   "hero": "/images/products/packable-wash-basin/basin-held-open.jpg",
    "gallery": [
+    "/images/products/packable-wash-basin/basin-held-open.jpg",
     "/images/products/packable-wash-basin/portable-wash-basin-1.jpg",
     "/images/products/packable-wash-basin/portable-wash-basin-2.png",
     "/images/products/packable-wash-basin/1.png",
@@ -680,11 +672,11 @@
    "story": "A ground blanket that stuffs into its own corner pocket. I bought and tested the best of the category before deciding whether there was room for ULT Gear to improve on it.",
    "wanted": [],
    "docs": [],
-   "hero": "/images/products/packable-beach-blanket/pocket-travel-blanket-corner-marked.jpg",
+   "hero": "/images/products/packable-beach-blanket/pocket-travel-blanket-packed.jpg",
    "gallery": [
+    "/images/products/packable-beach-blanket/pocket-travel-blanket-packed.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-corner-marked.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-corner.jpg",
-    "/images/products/packable-beach-blanket/pocket-travel-blanket-packed.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-zipper.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-bag-sew-line.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-bag.jpg",
@@ -694,21 +686,23 @@
   },
   {
    "slug": "self-drying-towel",
-   "title": "Heated Drying: Towel, Pad, Hanger",
+   "title": "Heated Drying: Pad, Hanger, Towel",
    "category": "Portable Travel Accessories",
    "status": "Patent searches · bench tests · design proposal",
-   "summary": "Carbon-fiber heating for drying towels and clothes on the road, plus a heated hanger and heated clothing.",
-   "story": "A family of ideas around one problem: wet clothes and towels in a hostel room with nowhere to dry them. A towel with carbon-fiber heating elements and a magnetic wireless charging tag. A packable heating pad you lay clothes on. A packable heated hanger. Heated clothing in general. Some of it needed technology I knew existed in other products, and I wasn't sure I could adapt it to mine, so I started by testing what was already out there: heating and drying tests on a bench, with a thermostat and a clear tub. I ran automated prior-art searches in January and February 2023, got a research-and-ideation proposal from a product design firm, and spent most of the time on the legal questions: could I license the tech, could I change it enough to avoid a patent, did I need patents of my own. The same searches covered a USB-powered belt as a portable power source for heated clothing. None of it went further than the bench.",
+   "summary": "A packable heating pad for drying clothes, plus a heated hanger, heated towel and heated clothing.",
+   "story": "A family of ideas around one problem: wet clothes and towels in a hostel room with nowhere to dry them. A packable heating pad you lay clothes on. A packable heated hanger. A towel with carbon-fiber heating elements and a magnetic wireless charging tag. Heated clothing in general. Some of it needed technology I knew existed in other products, and I wasn't sure I could adapt it to mine, so I started by testing what was already out there: heating and drying tests on a bench, including a food dehydrator with a pair of socks in it and an off-the-shelf heating mat with a load of laundry on it. I ran automated prior-art searches in January and February 2023, got a research-and-ideation proposal from a product design firm, and spent most of the time on the legal questions: could I license the tech, could I change it enough to avoid a patent, did I need patents of my own. The same searches covered a USB-powered belt as a portable power source for heated clothing. None of it went further than the bench.",
    "wanted": [],
    "docs": [
     "Prior-art search reports, January and February 2023",
     "Research and ideation proposal from a product design firm",
-    "Bench test photos: heating element, clear tub, thermostat"
+    "Bench tests: heating mat with laundry, dehydrator with socks"
    ],
-   "hero": "/images/products/self-drying-towel/bath-towel-1.jpg",
+   "hero": "/images/products/self-drying-towel/dehydrator-socks-test.jpg",
    "gallery": [
+    "/images/products/self-drying-towel/dehydrator-socks-test.jpg",
+    "/images/products/self-drying-towel/heating-pad-test-1.jpg",
+    "/images/products/self-drying-towel/heating-pad-test-2.jpg",
     "/images/products/self-drying-towel/bath-towel-1.jpg",
-    "/images/products/self-drying-towel/heating-mat-test-img_2492.jpg",
     "/images/products/self-drying-towel/heating-mat-test-img_2493.jpg",
     "/images/products/self-drying-towel/heating-mat-test-img_2494.jpg",
     "/images/products/self-drying-towel/heating-mat-test-img_2495.jpg",
@@ -716,6 +710,27 @@
     "/images/products/self-drying-towel/hand-towel-2.jpg",
     "/images/products/self-drying-towel/hand-towel-ink-art.jpg",
     "/images/products/self-drying-towel/toothbrush-charger.jpg"
+   ]
+  },
+  {
+   "slug": "portable-ultrasonic-cleaner",
+   "title": "Portable Ultrasonic Cleaner",
+   "category": "Portable Travel Accessories",
+   "status": "Bench tests",
+   "summary": "Could a pocket-size ultrasonic cleaner do laundry in a hostel sink?",
+   "story": "Ultrasonic cleaners exist for jewelry and glasses. I wanted to know whether a small one could wash clothes in a sink or a packable basin. So I ran staining and cleaning tests: stained fabric squares in two bowls of water, one with the cleaner running and one without, then laid the squares out on a tray to compare. It was the same question as the heated gear, whether technology that already existed for something else could be adapted to travel laundry, and it stayed on the bench for the same reasons.",
+   "wanted": [
+    "Small enough to pack, powered by USB",
+    "Cleans a sink-load of clothes without a machine"
+   ],
+   "docs": [
+    "Staining and cleaning test photos"
+   ],
+   "hero": "/images/products/portable-ultrasonic-cleaner/img_0909.jpg",
+   "gallery": [
+    "/images/products/portable-ultrasonic-cleaner/img_0909.jpg",
+    "/images/products/portable-ultrasonic-cleaner/img_0821-mov.jpg",
+    "/images/products/portable-ultrasonic-cleaner/img_0949.jpg"
    ]
   }
  ]
