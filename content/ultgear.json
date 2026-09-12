@@ -23,7 +23,7 @@
     "product ideas"
    ],
    [
-    "14",
+    "23",
     "taken past the sketch"
    ],
    [
@@ -60,28 +60,8 @@
   ],
   "concepts": [
    {
-    "title": "Packable Puffer Jacket",
-    "note": "Tech-pack templates gathered, never drawn up."
-   },
-   {
-    "title": "Packable Rain Jacket",
-    "note": "Windbreaker tech packs collected as the starting point."
-   },
-   {
     "title": "Packable Rain Pants",
     "note": "Concept only."
-   },
-   {
-    "title": "Convertible Pants",
-    "note": "Zip-off legs. Concept only."
-   },
-   {
-    "title": "Arm and Leg Sleeves",
-    "note": "Winter layering without a second set of clothes."
-   },
-   {
-    "title": "Quick-Dry Merino Travel Socks",
-    "note": "Research on merino blends and silver-ion antibacterial yarns."
    },
    {
     "title": "Quick-Dry Underwear",
@@ -92,20 +72,8 @@
     "note": "Vibram outsole, three straps, under 12 oz. Notes only."
    },
    {
-    "title": "Ultralight Backpack",
-    "note": "Feature research: load lifters, mesh suspension, quick-release straps."
-   },
-   {
-    "title": "Free-standing Toiletry Bag",
-    "note": "For hostel bathrooms with no counter space. Concept and sample test."
-   },
-   {
     "title": "USB-Powered Battery Belt",
     "note": "Prior-art search, February 2023, alongside the heated towel."
-   },
-   {
-    "title": "Ultrapackable Tech Accessories",
-    "note": "Chargers and cables that disappear into the belt or the pack."
    },
    {
     "title": "Ultralight Waterproof Clip-on Bags",
@@ -140,32 +108,19 @@
       "packable-travel-shorts",
       "packable-travel-pants",
       "packable-hoodie",
-      "packable-t-shirt"
+      "packable-t-shirt",
+      "apparel-tech-packs",
+      "packable-puffer-jacket",
+      "packable-rain-jacket",
+      "quick-dry-travel-socks",
+      "convertible-pants",
+      "arm-and-leg-sleeves",
+      "everything-else-apparel"
      ],
      "concepts": [
       {
-       "title": "Packable Puffer Jacket",
-       "note": "Tech-pack templates gathered, never drawn up."
-      },
-      {
-       "title": "Packable Rain Jacket",
-       "note": "Windbreaker tech packs collected as the starting point."
-      },
-      {
        "title": "Packable Rain Pants",
        "note": "Concept only."
-      },
-      {
-       "title": "Convertible Pants",
-       "note": "Zip-off legs. Concept only."
-      },
-      {
-       "title": "Arm and Leg Sleeves",
-       "note": "Winter layering without a second set of clothes."
-      },
-      {
-       "title": "Quick-Dry Merino Travel Socks",
-       "note": "Research on merino blends and silver-ion antibacterial yarns."
       },
       {
        "title": "Quick-Dry Underwear",
@@ -183,13 +138,11 @@
      "products": [
       "packable-day-pack",
       "packable-waist-pack",
-      "security-chest-sling"
+      "security-chest-sling",
+      "ultralight-backpack",
+      "everything-else-bags"
      ],
      "concepts": [
-      {
-       "title": "Ultralight Backpack",
-       "note": "Feature research: load lifters, mesh suspension, quick-release straps."
-      },
       {
        "title": "Ultralight Waterproof Clip-on Bags",
        "note": "Small dry bags that clip to the outside of the pack."
@@ -208,18 +161,12 @@
       "hidden-pocket-travel-belt",
       "universal-drying-rack",
       "packable-wash-basin",
-      "packable-beach-blanket"
+      "packable-beach-blanket",
+      "free-standing-toiletry-bag",
+      "ultrapackable-tech-accessories",
+      "everything-else-accessories"
      ],
-     "concepts": [
-      {
-       "title": "Free-standing Toiletry Bag",
-       "note": "For hostel bathrooms with no counter space. Concept and sample test."
-      },
-      {
-       "title": "Ultrapackable Tech Accessories",
-       "note": "Chargers and cables that disappear into the belt or the pack."
-      }
-     ]
+     "concepts": []
     },
     {
      "n": "04",
@@ -336,7 +283,26 @@
     "/images/products/packable-travel-shorts/measuring-shorts.jpg",
     "/images/products/packable-travel-shorts/packable-short-samples.jpg",
     "/images/products/packable-travel-shorts/packable-shorts-4.jpg",
-    "/images/products/packable-travel-shorts/packable-shorts-5.png"
+    "/images/products/packable-travel-shorts/packable-shorts-5.png",
+    "/images/products/packable-travel-shorts/5bcaef79022936e5a7417254a6232f6e.png",
+    "/images/products/packable-travel-shorts/attached-to-outside-of-pants.png",
+    "/images/products/packable-travel-shorts/screenshot-2023-09-01-073122.png",
+    "/images/products/packable-travel-shorts/untitled-design-10.png",
+    "/images/products/packable-travel-shorts/double-sided-zipper.png",
+    "/images/products/packable-travel-shorts/lightweight-zippered-athletic-shorts-mens.jpg",
+    "/images/products/packable-travel-shorts/lightweight-zippered-athletic-shorts-womens.jpg",
+    "/images/products/packable-travel-shorts/packable-travel-shorts-belt-loops.jpg",
+    "/images/products/packable-travel-shorts/pocket-size-2.jpg",
+    "/images/products/packable-travel-shorts/pocket-size-3.jpg",
+    "/images/products/packable-travel-shorts/pocket-size-4.jpg",
+    "/images/products/packable-travel-shorts/western-rise-belt-loops.png",
+    "/images/products/packable-travel-shorts/screenshot-2024-08-23-130440-copy.png",
+    "/images/products/packable-travel-shorts/screenshot-2024-08-23-130440.png",
+    "/images/products/packable-travel-shorts/screenshot-2024-08-23-130720-copy.png",
+    "/images/products/packable-travel-shorts/screenshot-2024-08-23-130720.png"
+   ],
+   "videos": [
+    "/videos/packable-travel-shorts/elastic-belt-loops.mp4"
    ]
   },
   {
@@ -365,7 +331,28 @@
     "/images/products/packable-travel-pants/travel-pants-back-pocket-highlighted.jpg",
     "/images/products/packable-travel-pants/travel-pants-back-pocket.jpg",
     "/images/products/packable-travel-pants/screenshot-2023-09-01-075536.jpg",
-    "/images/products/packable-travel-pants/screenshot-2023-09-01-075959.jpg"
+    "/images/products/packable-travel-pants/screenshot-2023-09-01-075959.jpg",
+    "/images/products/packable-travel-pants/screenshot-2023-09-01-073140.png",
+    "/images/products/packable-travel-pants/screenshot-2023-09-01-081531.png",
+    "/images/products/packable-travel-pants/screenshot-2023-09-01-081545.png",
+    "/images/products/packable-travel-pants/screenshot-2024-05-07-065242.png",
+    "/images/products/packable-travel-pants/packable-travel-shorts-belt-loops-highlighted.png",
+    "/images/products/packable-travel-pants/polyester-pants-2.jpg",
+    "/images/products/packable-travel-pants/travel-pants-roll-up-ankles-highlighted.png",
+    "/images/products/packable-travel-pants/travel-pants-roll-up-ankles.png",
+    "/images/products/packable-travel-pants/img-6448.jpg",
+    "/images/products/packable-travel-pants/img-6449.jpg",
+    "/images/products/packable-travel-pants/img-6450.jpg",
+    "/images/products/packable-travel-pants/img-6451.jpg",
+    "/images/products/packable-travel-pants/img-6452.jpg",
+    "/images/products/packable-travel-pants/img-3431.jpg",
+    "/images/products/packable-travel-pants/img-3432.jpg",
+    "/images/products/packable-travel-pants/img-3433.jpg",
+    "/images/products/packable-travel-pants/img-3434.jpg"
+   ],
+   "videos": [
+    "/videos/packable-travel-pants/img-3432.mp4",
+    "/videos/packable-travel-pants/img-3433.mp4"
    ]
   },
   {
@@ -394,8 +381,17 @@
     "/images/products/packable-hoodie/packable-hoodie-and-shirt.jpg",
     "/images/products/packable-hoodie/2023-04-26-13-42-40-messages.jpg",
     "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-1.jpg",
-    "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-2.jpg"
-   ]
+    "/images/products/packable-hoodie/kuhl-hoodie-hanging-hook-2.jpg",
+    "/images/products/packable-hoodie/2023-04-13-09-41-46-ketl-mtn-nofry-sun-hoodie-lightweight-br.png",
+    "/images/products/packable-hoodie/2023-04-13-09-41-54-ketl-mtn-nofry-sun-hoodie-lightweight-br.png",
+    "/images/products/packable-hoodie/2023-04-21-11-07-11-ketl-mtn-nofry-sun-hoodie-lightweight-br.png",
+    "/images/products/packable-hoodie/2023-04-21-11-11-11-mens-cowl-neck-long-sleeve-hoodie-runnin.png",
+    "/images/products/packable-hoodie/lightweight-packable-travel-hoodie-mens.png",
+    "/images/products/packable-hoodie/ult-gear-travel-shorts-hanging-hook-location.jpg",
+    "/images/products/packable-hoodie/img-2961.jpg",
+    "/images/products/packable-hoodie/img-2963.jpg"
+   ],
+   "videos": []
   },
   {
    "slug": "packable-t-shirt",
@@ -413,8 +409,13 @@
    "gallery": [
     "/images/products/packable-t-shirt/techpack-p2.jpg",
     "/images/products/packable-t-shirt/techpack-p3.jpg",
-    "/images/products/packable-t-shirt/techpack-p4.jpg"
-   ]
+    "/images/products/packable-t-shirt/techpack-p4.jpg",
+    "/images/products/packable-t-shirt/amazon-basics-mens-t-shirts-1.jpg",
+    "/images/products/packable-t-shirt/amazon-basics-mens-t-shirts-2.jpg",
+    "/images/products/packable-t-shirt/amazon-basics-mens-t-shirts-3.jpg",
+    "/images/products/packable-t-shirt/amazon-basics-mens-t-shirts-4.jpg"
+   ],
+   "videos": []
   },
   {
    "slug": "hidden-pocket-travel-belt",
@@ -455,8 +456,48 @@
     "/images/products/hidden-pocket-travel-belt/belt-design-change-2.jpg",
     "/images/products/hidden-pocket-travel-belt/belt-design-change-3.jpg",
     "/images/products/hidden-pocket-travel-belt/belt-pocket-design.jpg",
-    "/images/products/hidden-pocket-travel-belt/pocket-size.png"
-   ]
+    "/images/products/hidden-pocket-travel-belt/pocket-size.png",
+    "/images/products/hidden-pocket-travel-belt/0fe8d73b798bd682fc1f7c69731e5796.jpg",
+    "/images/products/hidden-pocket-travel-belt/1-overview-recap.png",
+    "/images/products/hidden-pocket-travel-belt/2-buckle-design.png",
+    "/images/products/hidden-pocket-travel-belt/3-belt-size-adjustment.png",
+    "/images/products/hidden-pocket-travel-belt/4-option-1-outside-front-zipper.png",
+    "/images/products/hidden-pocket-travel-belt/5-option-2-top-zipper-closure.png",
+    "/images/products/hidden-pocket-travel-belt/6-option-3-inside-zip-lock-closure.png",
+    "/images/products/hidden-pocket-travel-belt/7-option-3-zip-lock-design.png",
+    "/images/products/hidden-pocket-travel-belt/8-pocket-location.png",
+    "/images/products/hidden-pocket-travel-belt/8e9a9e6804770761dfa7c6da8da5a12b.jpg",
+    "/images/products/hidden-pocket-travel-belt/buckle-design-1.png",
+    "/images/products/hidden-pocket-travel-belt/buckle-design.png",
+    "/images/products/hidden-pocket-travel-belt/option-1-zipper-location.png",
+    "/images/products/hidden-pocket-travel-belt/option-1-outside-front-zipper.png",
+    "/images/products/hidden-pocket-travel-belt/option-2-belt-adjustment.png",
+    "/images/products/hidden-pocket-travel-belt/option-2-top-zipper-closure.png",
+    "/images/products/hidden-pocket-travel-belt/option-3-thick-zip.png",
+    "/images/products/hidden-pocket-travel-belt/option-3-zip-lock-design.png",
+    "/images/products/hidden-pocket-travel-belt/option-3-inside-zip-lock-closure.png",
+    "/images/products/hidden-pocket-travel-belt/pocket-location.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-08-29-044730.png",
+    "/images/products/hidden-pocket-travel-belt/zippered-pocket-original-design.png",
+    "/images/products/hidden-pocket-travel-belt/9-design-overview-recap.png",
+    "/images/products/hidden-pocket-travel-belt/16.png",
+    "/images/products/hidden-pocket-travel-belt/17.png",
+    "/images/products/hidden-pocket-travel-belt/18.png",
+    "/images/products/hidden-pocket-travel-belt/ult-gear-belt-design-1.png",
+    "/images/products/hidden-pocket-travel-belt/ult-gear-belt-design-2.png",
+    "/images/products/hidden-pocket-travel-belt/ult-gear-belt-design-5.png",
+    "/images/products/hidden-pocket-travel-belt/ult-gear-belt-design.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-07-15-081237.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-07-15-081430.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-07-15-100252.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-07-15-143839.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-08-02-093217.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-08-02-094809.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-08-06-093705.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-09-26-070959.png",
+    "/images/products/hidden-pocket-travel-belt/screenshot-2024-09-26-072738-copy.png"
+   ],
+   "videos": []
   },
   {
    "slug": "switchkicks",
@@ -481,8 +522,40 @@
     "/images/products/switchkicks/brief-p1.jpg",
     "/images/products/switchkicks/brief-p2.jpg",
     "/images/products/switchkicks/brief-p3.jpg",
-    "/images/products/switchkicks/brief-p4.jpg"
-   ]
+    "/images/products/switchkicks/brief-p4.jpg",
+    "/images/products/switchkicks/1-base-layer-barefoot-train-running-shoes.png",
+    "/images/products/switchkicks/2022-10-27-08-41-14-the-new-wool-flat-tom-bouwman-gmail-com-.png",
+    "/images/products/switchkicks/2023-04-07-09-03-31-xiaomi-new-ultralight-comfortable-casual.png",
+    "/images/products/switchkicks/2023-04-07-09-03-44-xiaomi-new-ultralight-comfortable-casual.png",
+    "/images/products/switchkicks/2023-04-07-09-03-53-xiaomi-new-ultralight-comfortable-casual.png",
+    "/images/products/switchkicks/2023-04-07-09-04-00-xiaomi-new-ultralight-comfortable-casual.png",
+    "/images/products/switchkicks/2023-04-07-09-04-09-xiaomi-new-ultralight-comfortable-casual.png",
+    "/images/products/switchkicks/2023-04-07-12-36-36-barefoot-trail-running-shoes-google-sear.png",
+    "/images/products/switchkicks/2023-04-07-12-36-43-men-s-barefoot-shoes-chaser-vitality-iii.png",
+    "/images/products/switchkicks/2023-04-07-12-36-56-adapt-runner-flux-footwear.png",
+    "/images/products/switchkicks/2023-04-07-12-37-19-adapt-runner-flux-footwear.png",
+    "/images/products/switchkicks/2023-04-07-12-38-27-ursus-high-top-bearfoot.png",
+    "/images/products/switchkicks/2023-04-07-12-38-33-ursus-high-top-bearfoot.png",
+    "/images/products/switchkicks/2023-04-07-12-38-50-layer-shoes-google-search.png",
+    "/images/products/switchkicks/2023-04-07-12-41-56-base-shoe-with-changeable-tops-google-se.png",
+    "/images/products/switchkicks/2023-04-07-12-42-04-base-shoe-with-changeable-tops-google-se.png",
+    "/images/products/switchkicks/2023-04-07-12-43-13-crossover-removable-sole-shoes-cat-footw.png",
+    "/images/products/switchkicks/2023-05-14-11-39-18-ap-terra-ariaprene-synthetic-rubber-foam.png",
+    "/images/products/switchkicks/2023-05-16-08-42-33-get-moving-in-new-colors-tom-bouwman-gma.png",
+    "/images/products/switchkicks/2023-06-05-14-24-33-amazon-com-riemot-women-s-hiking-sandals.png",
+    "/images/products/switchkicks/2023-06-05-14-24-46-amazon-com-elastic-shoelaces-no-tie-shoe.png",
+    "/images/products/switchkicks/2023-06-05-14-25-19-amazon-com-ibungee-laces-elastic-no-tie-.png",
+    "/images/products/switchkicks/2023-06-08-08-33-17-2022-giro-women-s-gauge-boa-shoe-cycling.png",
+    "/images/products/switchkicks/2023-06-08-08-33-22-men-s-mont-blanc-boa-trail-running-shoe-.png",
+    "/images/products/switchkicks/2023-06-08-08-33-30-boa-lace-system-google-search.png",
+    "/images/products/switchkicks/2023-06-08-08-34-33-boa-lace-system-google-search.png",
+    "/images/products/switchkicks/2023-06-08-08-40-48-without-ties-elastic-shoe-laces-quick-ma.png",
+    "/images/products/switchkicks/2023-06-14-14-24-58-zipper-soles-on-shoes-bing-and-12-more-p.png",
+    "/images/products/switchkicks/2023-06-14-14-29-44-zipper-shoes-bing-and-2-more-pages-work-.png",
+    "/images/products/switchkicks/shoe-size-comparison-highlighted.jpg",
+    "/images/products/switchkicks/shoe-size-comparison.jpg"
+   ],
+   "videos": []
   },
   {
    "slug": "packable-day-pack",
@@ -525,7 +598,33 @@
     "/images/products/packable-day-pack/img-3435.jpg",
     "/images/products/packable-day-pack/img-2157.jpg",
     "/images/products/packable-day-pack/img-2158.jpg",
-    "/images/products/packable-day-pack/img-2160.jpg"
+    "/images/products/packable-day-pack/img-2160.jpg",
+    "/images/products/packable-day-pack/9fc1e5a3-c57c-495d-95bf-4268d6ca8335.jpg",
+    "/images/products/packable-day-pack/img-6405.jpg",
+    "/images/products/packable-day-pack/portable-backpack-5.jpg",
+    "/images/products/packable-day-pack/img-3876.jpg",
+    "/images/products/packable-day-pack/img-3877.jpg",
+    "/images/products/packable-day-pack/img-3878.jpg",
+    "/images/products/packable-day-pack/img-3879.jpg",
+    "/images/products/packable-day-pack/img-3880.jpg",
+    "/images/products/packable-day-pack/img-2157-from-heic.jpg",
+    "/images/products/packable-day-pack/img-2158-from-heic.jpg",
+    "/images/products/packable-day-pack/img-2159-from-heic.jpg",
+    "/images/products/packable-day-pack/img-2159.jpg",
+    "/images/products/packable-day-pack/img-2160-from-heic.jpg",
+    "/images/products/packable-day-pack/img-2161-from-heic.jpg",
+    "/images/products/packable-day-pack/img-2161.jpg",
+    "/images/products/packable-day-pack/1822l-naturehike-ultralight-packable-day-packs-bags-and-back.jpg",
+    "/images/products/packable-day-pack/18l-naturehike-ultralight-waterproof-nylon-packable-day-pack.jpg",
+    "/images/products/packable-day-pack/489fda0b-0889-4e45-98b3-69ad58c6155f.jpg"
+   ],
+   "videos": [
+    "/videos/packable-day-pack/img-3876.mp4",
+    "/videos/packable-day-pack/img-3877.mp4",
+    "/videos/packable-day-pack/img-3878.mp4",
+    "/videos/packable-day-pack/img-3879.mp4",
+    "/videos/packable-day-pack/img-3880.mp4",
+    "/videos/packable-day-pack/img-2161.mp4"
    ]
   },
   {
@@ -544,7 +643,8 @@
     "/images/products/packable-waist-pack/waist-pack-1.jpg",
     "/images/products/packable-waist-pack/waist-pack-2.jpg",
     "/images/products/packable-waist-pack/waist-pack-3.jpg"
-   ]
+   ],
+   "videos": []
   },
   {
    "slug": "security-chest-sling",
@@ -562,7 +662,34 @@
     "/images/products/security-chest-sling/design-p1.jpg",
     "/images/products/security-chest-sling/security-chest-sling-1.jpg",
     "/images/products/security-chest-sling/security-chest-sling-2.jpg",
-    "/images/products/security-chest-sling/security-chest-sling-strap-comparison.jpg"
+    "/images/products/security-chest-sling/security-chest-sling-strap-comparison.jpg",
+    "/images/products/security-chest-sling/2023-04-30-12-39-12-radio-pouch-chest-rig-bag-adjustable-wal.png",
+    "/images/products/security-chest-sling/2023-04-30-12-39-22-radio-pouch-chest-rig-bag-adjustable-wal.png",
+    "/images/products/security-chest-sling/2023-05-04-09-09-53-temu-explore-the-latest-clothing-beauty-.png",
+    "/images/products/security-chest-sling/2023-05-04-09-12-45-gby-ultralight-chest-sling-waist-bag-fan.png",
+    "/images/products/security-chest-sling/2023-05-04-09-12-58-ultralight-chest-sling-bag-google-search.png",
+    "/images/products/security-chest-sling/2023-05-23-09-46-18-multifunction-camping-tactical-harness-w.png",
+    "/images/products/security-chest-sling/2023-05-23-10-20-03-waterproof-men-s-shoulder-bag-waterproof.png",
+    "/images/products/security-chest-sling/2023-05-25-09-45-42-make-your-wish-come-true-admin-ultgear-c.png",
+    "/images/products/security-chest-sling/2023-05-25-09-45-50-make-your-wish-come-true-admin-ultgear-c.png",
+    "/images/products/security-chest-sling/2023-05-25-09-45-57-make-your-wish-come-true-admin-ultgear-c.png",
+    "/images/products/security-chest-sling/2023-05-25-09-46-04-make-your-wish-come-true-admin-ultgear-c.png",
+    "/images/products/security-chest-sling/2023-05-25-09-46-14-make-your-wish-come-true-admin-ultgear-c.png",
+    "/images/products/security-chest-sling/2023-05-25-09-46-21-make-your-wish-come-true-admin-ultgear-c.png",
+    "/images/products/security-chest-sling/chest-sling-backward.jpg",
+    "/images/products/security-chest-sling/chest-sling-forward.jpg",
+    "/images/products/security-chest-sling/packable-hoodie-pocket-placement-1.jpg",
+    "/images/products/security-chest-sling/pacsafe-security-waist-pack.jpg",
+    "/images/products/security-chest-sling/sea-to-summit-day-pack-1.jpg",
+    "/images/products/security-chest-sling/sea-to-summit-day-pack-2.jpg",
+    "/images/products/security-chest-sling/img-3526.jpg",
+    "/images/products/security-chest-sling/img-3527.jpg",
+    "/images/products/security-chest-sling/img-3528.jpg",
+    "/images/products/security-chest-sling/img-6406.jpg",
+    "/images/products/security-chest-sling/img-6407.jpg"
+   ],
+   "videos": [
+    "/videos/security-chest-sling/img-3528.mp4"
    ]
   },
   {
@@ -602,8 +729,70 @@
     "/images/products/universal-drying-rack/stacked-hanger.jpg",
     "/images/products/universal-drying-rack/travel-drying-rack-v2.jpg",
     "/images/products/universal-drying-rack/ulanzi-mt-44-and-tp-02-base-only.jpg",
-    "/images/products/universal-drying-rack/ulanzi-mt-44-base-only.jpg"
-   ]
+    "/images/products/universal-drying-rack/ulanzi-mt-44-base-only.jpg",
+    "/images/products/universal-drying-rack/2023-02-22-12-41-15-jeans-storage-hanging-wardrobe-storage-h.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-41-34-mini-portable-alloy-folding-clothes-hang.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-42-21-laundry-dryer-wall-wall-clothes-dryer-wa.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-42-46-cabide-multifuncional-wardrobe-hanger-sp.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-43-00-untior-stainless-drying-rack-hanger-port.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-43-39-organization-wardrobe-laundry-storage-la.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-43-53-organization-wardrobe-laundry-storage-la.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-44-04-clothes-rack-clothes-hangers-wall-mounte.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-44-24-wooden-clothes-hangers-storage-clothes-h.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-46-33-coat-rack-trouser-for-kids-outfits-shirt.png",
+    "/images/products/universal-drying-rack/2023-02-22-12-55-41-portable-folding-clothes-hanger-travel-c.png",
+    "/images/products/universal-drying-rack/2023-03-28-08-10-22-camping-umbrella-hooks-hanging-beach-umb.png",
+    "/images/products/universal-drying-rack/2023-03-28-08-10-32-camping-umbrella-hooks-hanging-beach-umb.png",
+    "/images/products/universal-drying-rack/screenshot-2024-06-03-175850.png",
+    "/images/products/universal-drying-rack/screenshot-2024-06-03-175909.png",
+    "/images/products/universal-drying-rack/screenshot-2024-06-04-170556.png",
+    "/images/products/universal-drying-rack/ult-gear-portable-drying-rack-design-2000x2000px.png",
+    "/images/products/universal-drying-rack/suit-bag-with-rope-hangers-2.png",
+    "/images/products/universal-drying-rack/suit-bag-with-rope-hangers.png",
+    "/images/products/universal-drying-rack/img-1362.jpg",
+    "/images/products/universal-drying-rack/img-1363.jpg",
+    "/images/products/universal-drying-rack/img-1818.jpg",
+    "/images/products/universal-drying-rack/img-1820.jpg",
+    "/images/products/universal-drying-rack/img-1841.jpg",
+    "/images/products/universal-drying-rack/2022-06-17-11-20-19-window.png",
+    "/images/products/universal-drying-rack/2022-06-17-11-23-57-window.png",
+    "/images/products/universal-drying-rack/2022-06-17-11-24-16-window.png",
+    "/images/products/universal-drying-rack/2022-06-17-11-25-49-window.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-08-45-premium-gt4-splitter-rods-anodized-zl1-a.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-08-57.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-14-20-bracket-adjustable-aluminum-1-us-flags.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-15-15-anley-multi-position-flag-pole-holder-mo.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-16-17-0-75-adjustable-locking-angular-tube-joi.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-17-56-adjustable-aluminum-bracket-white-free-s.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-18-47-amazon-com-nq-2-in-1-multifunctional-adj.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-20-37-locking-adjustable-angle-bracket-for-car.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-21-57-adjustable-locking-hubs-stainless-steel-.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-22-52-perfect-latching.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-22-58-adjustable-joint-nautical-accessories-st.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-23-05-stainless-steel-insert-adjustable-tube-c.png",
+    "/images/products/universal-drying-rack/2022-10-26-09-23-52-bon-tool-double-locking-adjustable-all-a.png",
+    "/images/products/universal-drying-rack/2023-01-11-12-16-01-amazon-com-songmics-clothes-drying-rack-.png",
+    "/images/products/universal-drying-rack/2023-01-24-15-20-07-uurig-tp-02-selfie-stick-tripod-stand-wi.png",
+    "/images/products/universal-drying-rack/2023-01-24-15-20-17-uurig-tp-02-selfie-stick-tripod-stand-wi.png",
+    "/images/products/universal-drying-rack/black-snake-arms.jpg",
+    "/images/products/universal-drying-rack/img-2526.jpg",
+    "/images/products/universal-drying-rack/img-2527.jpg",
+    "/images/products/universal-drying-rack/img-2528.jpg",
+    "/images/products/universal-drying-rack/img-2529.jpg",
+    "/images/products/universal-drying-rack/img-2530.jpg",
+    "/images/products/universal-drying-rack/img-2531.jpg",
+    "/images/products/universal-drying-rack/img-2533.jpg",
+    "/images/products/universal-drying-rack/img-2534.jpg",
+    "/images/products/universal-drying-rack/img-2535.jpg",
+    "/images/products/universal-drying-rack/img-2536.jpg",
+    "/images/products/universal-drying-rack/img-2537.jpg",
+    "/images/products/universal-drying-rack/img-2538.jpg",
+    "/images/products/universal-drying-rack/img-5816.jpg",
+    "/images/products/universal-drying-rack/img-5817.jpg",
+    "/images/products/universal-drying-rack/img-5818.jpg",
+    "/images/products/universal-drying-rack/drying-test.jpg"
+   ],
+   "videos": []
   },
   {
    "slug": "packable-wash-basin",
@@ -636,7 +825,22 @@
     "/images/products/packable-wash-basin/4-pocket-design-2.png",
     "/images/products/packable-wash-basin/5-carrying-case.png",
     "/images/products/packable-wash-basin/6-packed-design.png",
-    "/images/products/packable-wash-basin/laundry-bag.jpg"
+    "/images/products/packable-wash-basin/laundry-bag.jpg",
+    "/images/products/packable-wash-basin/screenshot-2024-07-29-172101.png",
+    "/images/products/packable-wash-basin/screenshot-2024-07-29-172108.png",
+    "/images/products/packable-wash-basin/screenshot-2024-07-29-172744.png",
+    "/images/products/packable-wash-basin/ult-gear-packable-wash-basin-1.png",
+    "/images/products/packable-wash-basin/portable-wash-bucket.jpg",
+    "/images/products/packable-wash-basin/img-3594.jpg",
+    "/images/products/packable-wash-basin/img-3595.jpg",
+    "/images/products/packable-wash-basin/img-3596.jpg",
+    "/images/products/packable-wash-basin/img-3597.jpg"
+   ],
+   "videos": [
+    "/videos/packable-wash-basin/img-3594.mp4",
+    "/videos/packable-wash-basin/img-3595.mp4",
+    "/videos/packable-wash-basin/img-3596.mp4",
+    "/videos/packable-wash-basin/img-3597.mp4"
    ]
   },
   {
@@ -657,8 +861,14 @@
     "/images/products/packable-beach-blanket/pocket-travel-blanket-bag-sew-line.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-bag.jpg",
     "/images/products/packable-beach-blanket/pocket-travel-blanket-logo.jpg",
-    "/images/products/packable-beach-blanket/pocket-travel-blanket.jpg"
-   ]
+    "/images/products/packable-beach-blanket/pocket-travel-blanket.jpg",
+    "/images/products/packable-beach-blanket/img-6403.jpg",
+    "/images/products/packable-beach-blanket/img-6404.jpg",
+    "/images/products/packable-beach-blanket/desert-and-fox-multipurpose-packable-travel-tarp.png",
+    "/images/products/packable-beach-blanket/desert-fox-waterproof-travel-tarp-and-picnic-mat-with-carryi.jpg",
+    "/images/products/packable-beach-blanket/desert-fox-waterproof-travel-tarp-and-picnic-mat-with-carryi-2.jpg"
+   ],
+   "videos": []
   },
   {
    "slug": "self-drying-towel",
@@ -685,8 +895,22 @@
     "/images/products/self-drying-towel/bath-towel-ink-art.jpg",
     "/images/products/self-drying-towel/hand-towel-2.jpg",
     "/images/products/self-drying-towel/hand-towel-ink-art.jpg",
-    "/images/products/self-drying-towel/toothbrush-charger.jpg"
-   ]
+    "/images/products/self-drying-towel/toothbrush-charger.jpg",
+    "/images/products/self-drying-towel/bath-towel-2.jpg",
+    "/images/products/self-drying-towel/bath-towel-comic-etch.png",
+    "/images/products/self-drying-towel/bath-towel-ink-art-2.png",
+    "/images/products/self-drying-towel/bath-towel-sketch-2.png",
+    "/images/products/self-drying-towel/hand-towel-comic-etch.png",
+    "/images/products/self-drying-towel/hand-towel-ink-art-2.png",
+    "/images/products/self-drying-towel/hand-towel-sketch-2.png",
+    "/images/products/self-drying-towel/toothbrush-charger-ink-art-1.png",
+    "/images/products/self-drying-towel/toothbrush-charger-ink-art.png",
+    "/images/products/self-drying-towel/img-2407.jpg",
+    "/images/products/self-drying-towel/img-2408.jpg",
+    "/images/products/self-drying-towel/img-2409.jpg",
+    "/images/products/self-drying-towel/img-2410.jpg"
+   ],
+   "videos": []
   },
   {
    "slug": "portable-ultrasonic-cleaner",
@@ -707,7 +931,321 @@
     "/images/products/portable-ultrasonic-cleaner/img_0909.jpg",
     "/images/products/portable-ultrasonic-cleaner/img_0821-mov.jpg",
     "/images/products/portable-ultrasonic-cleaner/img_0949.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "apparel-tech-packs",
+   "title": "Apparel Tech Packs",
+   "category": "Packable Apparel",
+   "status": "Documents · June 2023",
+   "summary": "The factory-ready spec sheets for the hoodie and tee, page by page.",
+   "story": "A tech pack is the document a factory builds from: technical drawings, measurements by size, materials, stitching, labels. Summit Prototyping & Design produced men's and women's packs for the ultralight hoodie and t-shirt in June 2023. These are the pages, plus the reference packs I collected to learn the format.",
+   "wanted": [],
+   "docs": [
+    "Ultralight Hoodie tech pack, men's, v1.0, 13 pages",
+    "Ultralight Hoodie tech pack, women's, v1.0, 13 pages",
+    "Ultralight T-Shirt tech pack, men's, v1.0, 13 pages"
+   ],
+   "hero": "/images/products/apparel-tech-packs/hoodie-mens-p01.jpg",
+   "gallery": [
+    "/images/products/apparel-tech-packs/screenshot-2023-09-02-111153.png",
+    "/images/products/apparel-tech-packs/hoodie-mens-p01.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p02.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p03.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p04.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p05.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p06.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p07.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p08.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p09.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p10.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p11.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p12.jpg",
+    "/images/products/apparel-tech-packs/hoodie-mens-p13.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p01.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p02.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p03.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p04.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p05.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p06.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p07.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p08.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p09.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p10.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p11.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p12.jpg",
+    "/images/products/apparel-tech-packs/hoodie-womens-p13.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p01.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p02.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p03.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p04.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p05.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p06.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p07.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p08.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p09.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p10.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p11.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p12.jpg",
+    "/images/products/apparel-tech-packs/tee-mens-p13.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "arm-and-leg-sleeves",
+   "title": "Arm and Leg Sleeves",
+   "category": "Packable Apparel",
+   "status": "Research",
+   "summary": "Winter layering without packing a second wardrobe.",
+   "story": "Sleeves you add to a t-shirt and shorts when the weather turns, instead of carrying long-sleeve everything. Research stage: the products I looked at and what I liked about each.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/arm-and-leg-sleeves/2023-04-01-09-12-29-1-pair-fishing-arm-sleeve-fishing-arm-sl.png",
+   "gallery": [
+    "/images/products/arm-and-leg-sleeves/2023-04-01-09-12-29-1-pair-fishing-arm-sleeve-fishing-arm-sl.png",
+    "/images/products/arm-and-leg-sleeves/hcb-3-chap-3a-thermal-comfort.jpg",
+    "/images/products/arm-and-leg-sleeves/optimal-temp-range-for-ac-units.png",
+    "/images/products/arm-and-leg-sleeves/temp-clothing-chart-for-kids.jpg",
+    "/images/products/arm-and-leg-sleeves/temp-clothing-chart.jpg",
+    "/images/products/arm-and-leg-sleeves/temp-sleeping-bag-chart.jpg",
+    "/images/products/arm-and-leg-sleeves/thermal-comfort-factors.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "convertible-pants",
+   "title": "Convertible Pants",
+   "category": "Packable Apparel",
+   "status": "Research",
+   "summary": "Zip-off legs, done well.",
+   "story": "Pants that turn into shorts are an old idea, usually done badly. I collected the versions that got closest to what I wanted. It never got past references.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/convertible-pants/lightweight-packable-convertible-travel-pants-mens.png",
+   "gallery": [
+    "/images/products/convertible-pants/lightweight-packable-convertible-travel-pants-mens.png",
+    "/images/products/convertible-pants/lightweight-zippered-waterproof-pants-womens.jpg",
+    "/images/products/convertible-pants/mens-lightweight-quick-dry-travel-pants.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "packable-puffer-jacket",
+   "title": "Packable Puffer Jacket",
+   "category": "Packable Apparel",
+   "status": "Research · tech-pack templates",
+   "summary": "A puffer that packs into its own pocket.",
+   "story": "A lightweight puffer that stuffs into its own pocket, sized for a one-bag kit. I gathered jacket tech-pack templates to draw it up, and it stayed at that stage.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/packable-puffer-jacket/lightweight-packable-puffer-jacket-womens.jpg",
+   "gallery": [
+    "/images/products/packable-puffer-jacket/lightweight-packable-puffer-jacket-womens.jpg",
+    "/images/products/packable-puffer-jacket/packable-puffer-jacket-black-womens.jpg",
+    "/images/products/packable-puffer-jacket/packable-puffer-jacket-green-mens.jpg",
+    "/images/products/packable-puffer-jacket/packable-puffer-jacket-light-grey-mens.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "packable-rain-jacket",
+   "title": "Packable Rain Jacket",
+   "category": "Packable Apparel",
+   "status": "Research · tech-pack templates",
+   "summary": "A packable shell for the days it rains.",
+   "story": "A windbreaker-weight rain shell that packs down to nothing. Windbreaker and jacket tech packs collected as the starting point, alongside the hoodie work.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/packable-rain-jacket/lightweight-packable-waterproof-hooded-running-jacket.png",
+   "gallery": [
+    "/images/products/packable-rain-jacket/lightweight-packable-waterproof-hooded-running-jacket.png",
+    "/images/products/packable-rain-jacket/lightweight-packable-waterproof-ran-jacket.png",
+    "/images/products/packable-rain-jacket/marmot-rain-jacket-1.jpg",
+    "/images/products/packable-rain-jacket/marmot-rain-jacket-2.jpg",
+    "/images/products/packable-rain-jacket/marmot-rain-jacket-3.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "quick-dry-travel-socks",
+   "title": "Quick-Dry Travel Socks",
+   "category": "Packable Apparel",
+   "status": "Research",
+   "summary": "Merino-blend socks that dry overnight.",
+   "story": "Merino wool blends, silver-ion antibacterial yarn, a low-profile cut. I read the fiber research and the sock makers' claims and compared them against the pairs I already trusted. Notes, references and a shortlist of makers.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/quick-dry-travel-socks/merino-wool-travel-sock-w-heel-tab-2.png",
+   "gallery": [
+    "/images/products/quick-dry-travel-socks/merino-wool-travel-sock-w-heel-tab-2.png",
+    "/images/products/quick-dry-travel-socks/merino-wool-travel-socks-1.png",
+    "/images/products/quick-dry-travel-socks/merino-wool-travel-socks-cushioned-toe-and-heel-5.png",
+    "/images/products/quick-dry-travel-socks/merino-wool-travel-socks-inner-hanger-hook-4.png",
+    "/images/products/quick-dry-travel-socks/merino-wool-travel-socks-thread-features-3.png",
+    "/images/products/quick-dry-travel-socks/screenshot-2024-05-07-061225.png",
+    "/images/products/quick-dry-travel-socks/screenshot-2024-05-07-061237.png",
+    "/images/products/quick-dry-travel-socks/screenshot-2024-05-07-061244.png"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "ultralight-backpack",
+   "title": "Ultralight Backpack",
+   "category": "Packable Bags & Day Packs",
+   "status": "Research",
+   "summary": "The features I'd steal for a one-bag pack.",
+   "story": "Load lifters, free-float mesh suspension, easy-access side pockets, sliding chest straps, quick-release shoulder straps. A feature-by-feature look at the packs I admired, as the spec for a ULT Gear pack that never got drawn.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/ultralight-backpack/prod-backcountry-shoulder-strap-01.jpg",
+   "gallery": [
+    "/images/products/ultralight-backpack/prod-backcountry-shoulder-strap-01.jpg",
+    "/images/products/ultralight-backpack/screenshot-2023-09-12-112139.png",
+    "/images/products/ultralight-backpack/screenshot-2023-09-12-112146.png",
+    "/images/products/ultralight-backpack/screenshot-2023-09-16-060612.png",
+    "/images/products/ultralight-backpack/screenshot-2023-09-16-060709.png",
+    "/images/products/ultralight-backpack/screenshot-2023-09-16-060729.png",
+    "/images/products/ultralight-backpack/screenshot-2023-09-16-061234.png",
+    "/images/products/ultralight-backpack/screenshot-2023-09-16-061808.png",
+    "/images/products/ultralight-backpack/backpack-size-guide.jpg",
+    "/images/products/ultralight-backpack/easy-access-side-pockets.png",
+    "/images/products/ultralight-backpack/flex-capacity.png",
+    "/images/products/ultralight-backpack/free-float-mesh-suspension-system.png",
+    "/images/products/ultralight-backpack/load-lifter-straps.png",
+    "/images/products/ultralight-backpack/mesh-shoe-bag.png",
+    "/images/products/ultralight-backpack/shimoda-designs-520-230-shoulder-strap-women-s-1525384.jpg",
+    "/images/products/ultralight-backpack/shoulder-straps-with-clips.jpg",
+    "/images/products/ultralight-backpack/sliding-chest-strap.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "free-standing-toiletry-bag",
+   "title": "Free-standing Toiletry Bag",
+   "category": "Portable Travel Accessories",
+   "status": "Concept · sample tested",
+   "summary": "For hostel bathrooms with no counter space.",
+   "story": "A toiletry bag that stands or hangs on its own, because hostel bathrooms rarely have a shelf. I bought a hanging bag to test the idea on the road.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/free-standing-toiletry-bag/2023-05-15-08-38-27-amazon-com-toiletry-bag-for-men-travel-e.png",
+   "gallery": [
+    "/images/products/free-standing-toiletry-bag/2023-05-15-08-38-27-amazon-com-toiletry-bag-for-men-travel-e.png",
+    "/images/products/free-standing-toiletry-bag/img-1681.jpg",
+    "/images/products/free-standing-toiletry-bag/img-6408.jpg",
+    "/images/products/free-standing-toiletry-bag/screenshot-2023-08-30-092509.png",
+    "/images/products/free-standing-toiletry-bag/screenshot-2023-08-30-092517.png"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "ultrapackable-tech-accessories",
+   "title": "Ultrapackable Tech Accessories",
+   "category": "Portable Travel Accessories",
+   "status": "Research",
+   "summary": "Chargers and cables that disappear into the pack.",
+   "story": "Multi-port chargers, flat cables, one charger that covers every device. Reference gathering, plus the USB battery belt idea that got its own prior-art search.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/ultrapackable-tech-accessories/packable-travel-day-pack-1.jpg",
+   "gallery": [
+    "/images/products/ultrapackable-tech-accessories/packable-travel-day-pack-1.jpg",
+    "/images/products/ultrapackable-tech-accessories/packable-travel-day-pack-2.jpg",
+    "/images/products/ultrapackable-tech-accessories/packable-travel-towel-1.jpg",
+    "/images/products/ultrapackable-tech-accessories/single-charger.jpg",
+    "/images/products/ultrapackable-tech-accessories/usb-port-types.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "everything-else-apparel",
+   "title": "Everything Else: Apparel",
+   "category": "Packable Apparel",
+   "status": "Odds and ends",
+   "summary": "What didn't fit a card: samples, size charts, references, notes.",
+   "story": "The rest of the apparel archive: sample photos, size charts, fabric swatches, reference shots and the odd screenshot. Kept because the depth of the work is the point.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/everything-else-apparel/2023-03-29-14-44-42-dropbox-tech-packs-simplify-your-life.png",
+   "gallery": [
+    "/images/products/everything-else-apparel/2023-03-29-14-44-42-dropbox-tech-packs-simplify-your-life.png",
+    "/images/products/everything-else-apparel/2023-03-29-14-46-27-dropbox-tech-packs-simplify-your-life.png",
+    "/images/products/everything-else-apparel/2023-03-29-14-46-59-dropbox-tech-packs-simplify-your-life.png",
+    "/images/products/everything-else-apparel/2023-03-29-14-47-22-dropbox-tech-packs-simplify-your-life.png",
+    "/images/products/everything-else-apparel/screenshot-2023-09-19-120555.png",
+    "/images/products/everything-else-apparel/size-chart-example-1.png",
+    "/images/products/everything-else-apparel/lighweight-packable-hiking-rain-pants-2.png",
+    "/images/products/everything-else-apparel/lighweight-packable-hiking-rain-pants.png",
+    "/images/products/everything-else-apparel/2023-07-17-06-04-47-waterproof-all-weather-cycle-oversock-se.png",
+    "/images/products/everything-else-apparel/2023-07-17-06-06-15-best-cycling-overshoes-2023-waterproof-o.png",
+    "/images/products/everything-else-apparel/2023-03-29-14-47-59-dropbox-tech-packs-simplify-your-life.png",
+    "/images/products/everything-else-apparel/packable-backpack-with-ult-gear-logo-edited.png",
+    "/images/products/everything-else-apparel/screenshot-2024-04-23-174908.png",
+    "/images/products/everything-else-apparel/screenshot-2024-04-23-174920.png",
+    "/images/products/everything-else-apparel/all-season-ultralight-jacket-measurements.png",
+    "/images/products/everything-else-apparel/all-season-ultralight-jacket-size-chart.png",
+    "/images/products/everything-else-apparel/mens-quick-dry-faliza-hiking-pants-size-chart.jpg",
+    "/images/products/everything-else-apparel/2c8c9a8d-7cd5-4660-aa3c-1ab9a53f6bb4.jpg",
+    "/images/products/everything-else-apparel/668edb78-e11f-4152-a24b-e19a74bced3c.jpg",
+    "/images/products/everything-else-apparel/b3ba136e-ef7d-44aa-aa4b-046e519e2911.jpg",
+    "/images/products/everything-else-apparel/clothe-samples-2.jpg",
+    "/images/products/everything-else-apparel/clothe-samples.png",
+    "/images/products/everything-else-apparel/fabric-samples-1.jpg"
+   ],
+   "videos": []
+  },
+  {
+   "slug": "everything-else-bags",
+   "title": "Everything Else: Bags",
+   "category": "Packable Bags & Day Packs",
+   "status": "Odds and ends",
+   "summary": "What didn't fit a card: the tote spec, packing layouts, strap hardware.",
+   "story": "The rest of the bags archive: the keychain tote design, packing layouts, a strap-hook video, and reference shots.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/everything-else-bags/1-2.png",
+   "gallery": [
+    "/images/products/everything-else-bags/1-2.png",
+    "/images/products/everything-else-bags/2-2.png",
+    "/images/products/everything-else-bags/3-2.png",
+    "/images/products/everything-else-bags/4-2.png",
+    "/images/products/everything-else-bags/5-2.png",
+    "/images/products/everything-else-bags/5.png",
+    "/images/products/everything-else-bags/img-0961.jpg",
+    "/images/products/everything-else-bags/img-0963.jpg",
+    "/images/products/everything-else-bags/img-1420.jpg",
+    "/images/products/everything-else-bags/img-2507.jpg"
+   ],
+   "videos": [
+    "/videos/everything-else-bags/rotating-removable-strap-hooks.mp4"
    ]
+  },
+  {
+   "slug": "everything-else-accessories",
+   "title": "Everything Else: Accessories",
+   "category": "Portable Travel Accessories",
+   "status": "Odds and ends",
+   "summary": "What didn't fit a card: the wallet samples and leftover references.",
+   "story": "The rest of the accessories archive, including the aluminum wallet samples that came off the site as a card.",
+   "wanted": [],
+   "docs": [],
+   "hero": "/images/products/everything-else-accessories/2023-04-24-14-48-12-amazon-com-bemmo-carbon-fiber-card-holde.png",
+   "gallery": [
+    "/images/products/everything-else-accessories/2023-04-24-14-48-12-amazon-com-bemmo-carbon-fiber-card-holde.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-48-24-amazon-com-bemmo-carbon-fiber-card-holde.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-48-34-amazon-com-bemmo-carbon-fiber-card-holde.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-49-10-amazon-com-kioten-wallet-for-men-metal-w.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-49-21-amazon-com-kioten-wallet-for-men-metal-w.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-49-28-amazon-com-kioten-wallet-for-men-metal-w.png",
+    "/images/products/everything-else-accessories/screenshot-2023-09-10-101447.png",
+    "/images/products/everything-else-accessories/screenshot-2023-09-10-103610.png",
+    "/images/products/everything-else-accessories/minimalist-wallet-with-bottle-opener.png",
+    "/images/products/everything-else-accessories/minimalist-wallet.jpg",
+    "/images/products/everything-else-accessories/wallet-1.jpg",
+    "/images/products/everything-else-accessories/wallet-2.jpg"
+   ],
+   "videos": []
   }
  ]
 }
