@@ -39,29 +39,6 @@
     "partners across 4 countries"
    ]
   ],
-  "materials": {
-   "title": "Materials and testing",
-   "text": "Before designing anything technical I tested what already existed: staining and cleaning tests, heating and drying tests, packing and wrinkle tests. Fabric swatches in 50D and 75D, sample orders laid out on the bed, packing layouts to see what a one-bag kit really looks like, and sketches of what a heated system might be.",
-   "images": [
-    "/images/materials-and-testing/2c8c9a8d-7cd5-4660-aa3c-1ab9a53f6bb4.jpg",
-    "/images/materials-and-testing/668edb78-e11f-4152-a24b-e19a74bced3c.jpg",
-    "/images/materials-and-testing/b3ba136e-ef7d-44aa-aa4b-046e519e2911.jpg",
-    "/images/materials-and-testing/fabric-samples-1.jpg",
-    "/images/materials-and-testing/clothe-samples-2.jpg",
-    "/images/materials-and-testing/clothe-samples.jpg",
-    "/images/materials-and-testing/img-0961.jpg",
-    "/images/materials-and-testing/img-0963.jpg",
-    "/images/materials-and-testing/img-1134.jpg",
-    "/images/materials-and-testing/img-1420.jpg",
-    "/images/materials-and-testing/img-2507.jpg",
-    "/images/materials-and-testing/single-charger.jpg",
-    "/images/materials-and-testing/backpack-size-guide.jpg",
-    "/images/materials-and-testing/sketch-img_2407.jpg",
-    "/images/materials-and-testing/sketch-img_2408.jpg",
-    "/images/materials-and-testing/sketch-img_2409.jpg",
-    "/images/materials-and-testing/sketch-img_2410.jpg"
-   ]
-  },
   "storefront": {
    "title": "Before the products, a store",
    "text": "ULT Gear launched in 2023 as a curated shop of the best ultralight gear already on the market, with the plan to swap in ULT Gear's own designs as they came off the line. The store ran; the line never came off the line.",
@@ -273,8 +250,7 @@
        "title": "USB-Powered Battery Belt",
        "note": "Prior-art search, February 2023, alongside the heated towel."
       }
-     ],
-     "materials": true
+     ]
     },
     {
      "n": "05",
