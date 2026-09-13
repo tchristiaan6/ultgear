@@ -100,8 +100,8 @@
      "n": "01",
      "h": "Clothing first",
      "t": [
-      "I started with clothing because it seemed like the simplest. I wanted one of everything: ULT-branded hoodies, shirts, shorts, socks. Quick-dry, anti-wrinkle, anti-stain, built-in packing pockets, multiple zippered pockets. Basically every feature I look for in travel gear, in every piece of clothing, tailored to minimalist travel.",
-      "I learned about tech packs, material sourcing and MOQs. Some ideas died because I couldn't find or get the materials I wanted. Some died because I found existing products already doing it better. Some died because it's nearly impossible to express a clear idea to a manufacturer through text and images, and US-based manufacturing was too expensive. Many died from minimum order quantities. Shipping played a role too: sending material samples and prototypes back and forth meant two to three months for a single prototype, so improvements and iterations would have taken years."
+      "I started with clothing because it seemed like the simplest place to begin. I wanted one of everything with the ULT Gear label on it: hoodies, shirts, shorts, socks. Quick-dry, wrinkle-resistant, stain-resistant, with built-in packing pockets and zippered pockets everywhere. Every feature I look for in travel gear, in every piece, designed for minimalist travel.",
+      "That's where I learned about tech packs, material sourcing and minimum order quantities. Some ideas died because I couldn't get the materials I wanted. Some died because an existing product already did it better. Some died because it's nearly impossible to explain a design to a factory through text and pictures, and manufacturing in the US was too expensive. Most died on the minimum order. Shipping didn't help: sending samples and prototypes back and forth meant two to three months per prototype, so a few rounds of improvement would have taken years."
      ],
      "id": "clothing",
      "products": [
@@ -132,7 +132,7 @@
      "n": "02",
      "h": "Bags, in parallel",
      "t": [
-      "At the same time I worked on a few backpack, day pack and sling bag concepts, and ran into the same issues: rare, unavailable or prohibitively expensive materials, long wait times, and existing brands that weren't perfect but already had recognition and a cult following. These died for similar reasons."
+      "Alongside the clothing I worked on backpack, day pack and sling bag concepts, and hit the same walls: rare, unavailable or prohibitively expensive materials, long waits, and existing brands that weren't perfect but already had the recognition and the cult following. They died for the same reasons."
      ],
      "id": "bags",
      "products": [
@@ -153,8 +153,8 @@
      "n": "03",
      "h": "Physical products",
      "t": [
-      "I had a number of physical product concepts too, and pursued a few: ultralight waterproof clip-on bags, a security belt that combined my favorite travel features (no metal, stretchy cloth, hidden security pockets), an ultra-portable drying rack for the perennial problem of nowhere to hang clothes in hotels and hostels, a packable picnic and beach blanket, a free-standing toiletry bag for hostel bathrooms with no counter space, and a packable wash basin for doing laundry in the sink.",
-      "I followed a similar path: product designers in Atlanta, a 3D print shop in Denver, manufacturers in China, material sourcers in Switzerland. The same constraints came up. Rare materials, manufacturing minimums, long prototyping timelines, and the cost of prototypes and components."
+      "I had a long list of physical products too, and pursued a handful: ultralight waterproof clip-on bags, a security belt that combined my favorite travel features (no metal, stretch fabric, hidden pockets), an ultra-portable drying rack for the perennial problem of nowhere to hang clothes in a hotel or hostel, a packable picnic and beach blanket, a free-standing toiletry bag for bathrooms with no counter space, and a packable wash basin for doing laundry in the sink.",
+      "The path was the same each time: product designers in Atlanta, a 3D print shop in Denver, manufacturers in China, material sourcers in Switzerland. So were the constraints: rare materials, manufacturing minimums, long prototyping timelines, and the cost of every prototype and component."
      ],
      "id": "physical",
      "products": [
@@ -172,8 +172,8 @@
      "n": "04",
      "h": "The technical ones",
      "t": [
-      "A number of concepts were technical: a packable heating pad for drying clothes, a packable heated hanger, heated clothing in general, a portable ultrasonic cleaner for washing clothes. Some required technology I knew existed in other products, but I wasn't sure I could adapt it to mine. So I started by testing existing products to see if they worked as advertised: staining and cleaning tests, heating and drying tests, packing and wrinkle tests.",
-      "I spent a good amount of time figuring out what was possible, technically and legally. Could I license certain tech? Could I change something enough that it wasn't patent infringement? Did I need patents? Did patents already exist? For many of these, most of the work was finding out whether the concept was possible and worth pursuing."
+      "Some of the concepts were technical: a packable heating pad for drying clothes, a packable heated hanger, heated clothing in general, a portable ultrasonic cleaner for washing clothes. They relied on technology I knew existed in other products, without knowing whether I could adapt it to mine. So I started by testing what was already on the market to see whether it worked as advertised: staining and cleaning tests, heating and drying tests, packing and wrinkle tests.",
+      "A lot of the time went into finding out what was possible, technically and legally. Could I license the technology? Could I change a design enough to stay clear of a patent? Did I need patents of my own, and did any already exist? For most of these ideas, the real work was deciding whether they were possible and worth pursuing at all."
      ],
      "id": "technical",
      "products": [
@@ -203,8 +203,8 @@
      "n": "05",
      "h": "SwitchKicks",
      "t": [
-      "One project I spent a lot of time on was SwitchKicks. Shoes have always been a problem for travelers. At minimum you need sandals, hiking shoes and casual shoes on the road, and ideally a dressier pair, a higher-ankle hiking shoe, and a cold-weather shoe if your travels cross climates. So I wondered whether I could build a layered shoe system: a minimalist base shoe for the beach or barefoot running, with slip-on layers that change the utility or the style. Colored patterns and materials for looks, an adjustable base for traction.",
-      "I worked with a couple of shoe designers to get the concept down. It died when I learned a single shoe mold, one size of one style, runs $10k to $12k. For a concept built on a flexible base plus layers plus materials plus outsoles, that meant something like $500k to $1M in R&D before anyone could try one on."
+      "The project I spent the most time on was SwitchKicks. Shoes have always been the traveler's problem. At a minimum you need sandals, hiking shoes and something casual, and ideally a dressier pair, a higher-ankle hiker, and a cold-weather shoe if your route crosses climates. So I wondered whether I could build a layered shoe system: a minimalist base shoe for the beach or barefoot running, with slip-on layers that change its function or its look. Patterns and materials for style, an adjustable base for traction.",
+      "I worked with two shoe designers to get the concept down. It died when I learned that a single shoe mold, one size of one style, runs $10k to $12k. For a system built on a flexible base plus layers, materials and outsoles, that meant something like $500k to $1M in R&D before anyone could try a pair on."
      ],
      "id": "switchkicks",
      "products": [
@@ -221,7 +221,7 @@
      "n": "06",
      "h": "Why it ended",
      "t": [
-      "All of the ideas died from cost, time, and the slow realization that I was building for a market of one: me. I do believe I could have found customers and built a new market. But without a lot of money, it was never going to happen."
+      "Every idea died from some mix of cost, time, and the slow realization that I was building for a market of one: me. I still believe I could have found customers and built a new market. But without serious investment, it was never going to happen."
      ],
      "id": "ending",
      "products": [],
