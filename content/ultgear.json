@@ -23,7 +23,7 @@
     "product ideas"
    ],
    [
-    "22",
+    "21",
     "taken past the sketch"
    ],
    [
@@ -90,6 +90,10 @@
    {
     "title": "Heated Clothing",
     "note": "Concept, tied to the USB battery belt as the power source."
+   },
+   {
+    "title": "Arm and Leg Sleeves",
+    "note": "Winter layering without a second set of clothes. References only."
    }
   ],
   "partners": "Product designers in Atlanta. A 3D print shop in Denver. Manufacturers in China. Material sourcers in Switzerland. Two shoe designers. One clothing designer.",
@@ -113,7 +117,6 @@
       "packable-rain-jacket",
       "quick-dry-travel-socks",
       "convertible-pants",
-      "arm-and-leg-sleeves",
       "everything-else-apparel"
      ],
      "concepts": [
@@ -124,6 +127,10 @@
       {
        "title": "Quick-Dry Underwear",
        "note": "Concept only."
+      },
+      {
+       "title": "Arm and Leg Sleeves",
+       "note": "Winter layering without a second set of clothes. References only."
       }
      ]
     },
@@ -980,26 +987,6 @@
    "videos": []
   },
   {
-   "slug": "arm-and-leg-sleeves",
-   "title": "Arm and Leg Sleeves",
-   "category": "Packable Apparel",
-   "status": "Research",
-   "summary": "Winter layering without packing a second wardrobe.",
-   "story": "Sleeves you add to a t-shirt and shorts when the weather turns, instead of carrying long-sleeve everything. Research stage: the products I looked at and what I liked about each.",
-   "wanted": [],
-   "docs": [],
-   "hero": "/images/products/arm-and-leg-sleeves/2023-04-01-09-12-29-1-pair-fishing-arm-sleeve-fishing-arm-sl.png",
-   "gallery": [
-    "/images/products/arm-and-leg-sleeves/2023-04-01-09-12-29-1-pair-fishing-arm-sleeve-fishing-arm-sl.png",
-    "/images/products/arm-and-leg-sleeves/hcb-3-chap-3a-thermal-comfort.jpg",
-    "/images/products/arm-and-leg-sleeves/optimal-temp-range-for-ac-units.png",
-    "/images/products/arm-and-leg-sleeves/temp-clothing-chart-for-kids.jpg",
-    "/images/products/arm-and-leg-sleeves/temp-clothing-chart.jpg",
-    "/images/products/arm-and-leg-sleeves/thermal-comfort-factors.jpg"
-   ],
-   "videos": []
-  },
-  {
    "slug": "convertible-pants",
    "title": "Convertible Pants",
    "category": "Packable Apparel",
@@ -1177,7 +1164,13 @@
     "/images/products/everything-else-apparel/clothe-samples-2.jpg",
     "/images/products/everything-else-apparel/clothe-samples.png",
     "/images/products/everything-else-apparel/fabric-samples-1.jpg",
-    "/images/products/arm-and-leg-sleeves/temp-sleeping-bag-chart.jpg"
+    "/images/products/arm-and-leg-sleeves/temp-sleeping-bag-chart.jpg",
+    "/images/products/arm-and-leg-sleeves/2023-04-01-09-12-29-1-pair-fishing-arm-sleeve-fishing-arm-sl.png",
+    "/images/products/arm-and-leg-sleeves/hcb-3-chap-3a-thermal-comfort.jpg",
+    "/images/products/arm-and-leg-sleeves/optimal-temp-range-for-ac-units.png",
+    "/images/products/arm-and-leg-sleeves/temp-clothing-chart-for-kids.jpg",
+    "/images/products/arm-and-leg-sleeves/temp-clothing-chart.jpg",
+    "/images/products/arm-and-leg-sleeves/thermal-comfort-factors.jpg"
    ],
    "videos": []
   },
