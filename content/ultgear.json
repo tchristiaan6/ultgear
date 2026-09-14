@@ -248,8 +248,9 @@
     "Factory spec and correspondence",
     "V2 revision notes, annotated photos"
    ],
-   "hero": "/images/products/packable-travel-shorts/packable-shorts.jpg",
+   "hero": "/images/products/packable-travel-shorts/shorts-tech-drawing-front-back.jpg",
    "gallery": [
+    "/images/products/packable-travel-shorts/shorts-tech-drawing-front-back.jpg",
     "/images/products/packable-travel-shorts/packable-shorts.jpg",
     "/images/products/packable-travel-shorts/packable-travel-shorts-pocket-placement-1.jpg",
     "/images/products/packable-travel-shorts/packable-travel-shorts-pocket-placement-2.jpg",
@@ -303,7 +304,8 @@
    ],
    "videos": [
     "/videos/packable-travel-shorts/elastic-belt-loops.mp4"
-   ]
+   ],
+   "fit": "contain"
   },
   {
    "slug": "packable-travel-pants",

@@ -2,6 +2,6 @@
 const { p } = Astro.props;
 ---
 <a class="card" href={`/products/${p.slug}`}>
-  <img class="card__img" src={p.hero} alt={p.title} loading="lazy" width="800" height="600">
+  <img class="card__img" style={p.fit === 'contain' ? 'object-fit:contain;background:#fff;padding:10px' : undefined} src={p.hero} alt={p.title} loading="lazy" width="800" height="600">
   <div class="card__body"><span class="pill pill--quiet">{p.status}</span><p class="card__title">{p.title}</p><p class="card__meta">{p.summary}</p></div>
 </a>
