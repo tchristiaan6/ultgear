@@ -1,0 +1,35 @@
+---
+// Three-circle diagram in the site palette. Fills use multiply so overlaps darken naturally.
+---
+<svg class="venn" viewBox="0 0 640 560" role="img" aria-labelledby="venn-title" xmlns="http://www.w3.org/2000/svg">
+  <title id="venn-title">Ultralight travel sits where ultralight backpacking, digital nomads and minimalist travel overlap</title>
+  <defs>
+    <style>
+      .venn text{font-family:"Barlow",ui-sans-serif,system-ui,sans-serif;fill:#1a2225}
+      .venn .lbl{font-size:24px;font-weight:700;letter-spacing:.01em}
+      .venn .mid{font-size:13px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;fill:#3b464b}
+      .venn .core{font-size:26px;font-weight:800;letter-spacing:-.01em}
+      .venn .core-sub{font-size:12px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;fill:#6b767c}
+    </style>
+  </defs>
+  <g style="mix-blend-mode:multiply">
+    <circle cx="320" cy="205" r="175" fill="#f8c038" fill-opacity=".55"/>
+    <circle cx="215" cy="365" r="175" fill="#c9d3d8" fill-opacity=".8"/>
+    <circle cx="425" cy="365" r="175" fill="#e6dccd" fill-opacity=".9"/>
+  </g>
+  <g fill="none" stroke="#1a2225" stroke-width="1.5" stroke-opacity=".55">
+    <circle cx="320" cy="205" r="175"/><circle cx="215" cy="365" r="175"/><circle cx="425" cy="365" r="175"/>
+  </g>
+  <text class="lbl" x="320" y="118" text-anchor="middle">Ultralight backpacking</text>
+  <text class="lbl" x="150" y="420" text-anchor="middle">Digital nomad</text>
+  <text class="lbl" x="490" y="420" text-anchor="middle">Minimalist travel</text>
+  <text class="mid" x="246" y="272" text-anchor="middle">Impractical</text>
+  <text class="mid" x="396" y="272" text-anchor="middle">Impossible</text>
+  <text class="mid" x="320" y="462" text-anchor="middle">Improbable</text>
+  <circle cx="320" cy="322" r="58" fill="#1a2225"/>
+  <text class="core" x="320" y="318" text-anchor="middle" fill="#ffffff" style="fill:#fff">Ultralight</text>
+  <text class="core" x="320" y="346" text-anchor="middle" style="fill:#f8c038">travel</text>
+</svg>
+<style>
+  .venn{width:100%;height:auto;display:block;max-width:560px;margin:0 auto}
+</style>
