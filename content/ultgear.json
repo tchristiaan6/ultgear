@@ -185,8 +185,7 @@
       "packable-wash-basin",
       "packable-beach-blanket",
       "free-standing-toiletry-bag",
-      "ultrapackable-tech-accessories",
-      "everything-else-accessories"
+      "ultrapackable-tech-accessories"
      ],
      "concepts": []
     },
@@ -1144,8 +1143,8 @@
    "title": "Ultrapackable Tech Accessories",
    "category": "Portable Travel Accessories",
    "status": "Research",
-   "summary": "Chargers and cables that disappear into the pack.",
-   "story": "Multi-port chargers, flat cables, one charger that covers every device. Reference gathering, plus the USB battery belt idea that got its own prior-art search.",
+   "summary": "Product ideas explored and researched but not built.",
+   "story": "Reference gathering for chargers and cables: multi-port chargers, flat cables, one charger that covers every device, plus the USB battery belt idea that got its own prior-art search. Also here: the minimalist wallet research, including the aluminum wallet samples.",
    "wanted": [],
    "docs": [],
    "hero": "/images/products/ultrapackable-tech-accessories/packable-travel-day-pack-1.jpg",
@@ -1154,7 +1153,19 @@
     "/images/products/ultrapackable-tech-accessories/packable-travel-day-pack-2.jpg",
     "/images/products/ultrapackable-tech-accessories/packable-travel-towel-1.jpg",
     "/images/products/ultrapackable-tech-accessories/single-charger.jpg",
-    "/images/products/ultrapackable-tech-accessories/usb-port-types.jpg"
+    "/images/products/ultrapackable-tech-accessories/usb-port-types.jpg",
+    "/images/products/everything-else-accessories/2023-04-24-14-48-12-amazon-com-bemmo-carbon-fiber-card-holde.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-48-24-amazon-com-bemmo-carbon-fiber-card-holde.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-48-34-amazon-com-bemmo-carbon-fiber-card-holde.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-49-10-amazon-com-kioten-wallet-for-men-metal-w.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-49-21-amazon-com-kioten-wallet-for-men-metal-w.png",
+    "/images/products/everything-else-accessories/2023-04-24-14-49-28-amazon-com-kioten-wallet-for-men-metal-w.png",
+    "/images/products/everything-else-accessories/screenshot-2023-09-10-101447.png",
+    "/images/products/everything-else-accessories/screenshot-2023-09-10-103610.png",
+    "/images/products/everything-else-accessories/minimalist-wallet-with-bottle-opener.png",
+    "/images/products/everything-else-accessories/minimalist-wallet.jpg",
+    "/images/products/everything-else-accessories/wallet-1.jpg",
+    "/images/products/everything-else-accessories/wallet-2.jpg"
    ],
    "videos": []
   },
@@ -1227,32 +1238,6 @@
    "videos": [
     "/videos/everything-else-bags/rotating-removable-strap-hooks.mp4"
    ]
-  },
-  {
-   "slug": "everything-else-accessories",
-   "title": "Everything Else: Accessories",
-   "category": "Portable Travel Accessories",
-   "status": "Odds and ends",
-   "summary": "What didn't fit a card: the wallet samples and leftover references.",
-   "story": "The rest of the accessories archive, including the aluminum wallet samples that came off the site as a card.",
-   "wanted": [],
-   "docs": [],
-   "hero": "/images/products/everything-else-accessories/2023-04-24-14-48-12-amazon-com-bemmo-carbon-fiber-card-holde.png",
-   "gallery": [
-    "/images/products/everything-else-accessories/2023-04-24-14-48-12-amazon-com-bemmo-carbon-fiber-card-holde.png",
-    "/images/products/everything-else-accessories/2023-04-24-14-48-24-amazon-com-bemmo-carbon-fiber-card-holde.png",
-    "/images/products/everything-else-accessories/2023-04-24-14-48-34-amazon-com-bemmo-carbon-fiber-card-holde.png",
-    "/images/products/everything-else-accessories/2023-04-24-14-49-10-amazon-com-kioten-wallet-for-men-metal-w.png",
-    "/images/products/everything-else-accessories/2023-04-24-14-49-21-amazon-com-kioten-wallet-for-men-metal-w.png",
-    "/images/products/everything-else-accessories/2023-04-24-14-49-28-amazon-com-kioten-wallet-for-men-metal-w.png",
-    "/images/products/everything-else-accessories/screenshot-2023-09-10-101447.png",
-    "/images/products/everything-else-accessories/screenshot-2023-09-10-103610.png",
-    "/images/products/everything-else-accessories/minimalist-wallet-with-bottle-opener.png",
-    "/images/products/everything-else-accessories/minimalist-wallet.jpg",
-    "/images/products/everything-else-accessories/wallet-1.jpg",
-    "/images/products/everything-else-accessories/wallet-2.jpg"
-   ],
-   "videos": []
   }
  ]
 }
