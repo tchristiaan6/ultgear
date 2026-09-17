@@ -76,8 +76,16 @@
     "note": "Prior-art search, February 2023, alongside the heated towel."
    },
    {
-    "title": "Ultralight Waterproof Clip-on Bags",
-    "note": "Small dry bags that clip to the outside of the pack."
+    "title": "Compression and Vacuum Bags",
+    "note": "To shrink clothing down inside the pack."
+   },
+   {
+    "title": "Ultralight Dry Bags",
+    "note": "Waterproof storage that weighs next to nothing."
+   },
+   {
+    "title": "Ultrathin Packing Cubes",
+    "note": "Organization without the added bulk."
    },
    {
     "title": "Packable Heating Pad",
@@ -105,7 +113,7 @@
      "h": "Clothing first",
      "t": [
       "I started with clothing because it seemed like the simplest place to begin. I wanted one of everything with the ULT Gear label on it: hoodies, shirts, shorts, socks. Quick-dry, wrinkle-resistant, stain-resistant, with built-in packing pockets and zippered pockets everywhere. Every feature I look for in travel gear, in every piece, designed for minimalist travel.",
-      "That's where I learned about tech packs, material sourcing and minimum order quantities. Some ideas died because I couldn't get the materials I wanted. Some died because an existing product already did it better. Some died because it's nearly impossible to explain a design to a factory through text and pictures, and manufacturing in the US was too expensive. Most died on the minimum order. Shipping didn't help: sending samples and prototypes back and forth meant two to three months per prototype, so a few rounds of improvement would have taken years."
+      "That's where I learned about tech packs, material sourcing and minimum order quantities. Some ideas died because I couldn't get the materials I wanted. Some died because an existing product already did it better. Some died because it's nearly impossible to explain a design to a factory through text and pictures, and manufacturing in the US was too expensive. Most died on the minimum order. Shipping times didn't help: every one-way shipment to or from an overseas manufacturer took two to three months, so a few rounds of prototyping could take up to a year for a single product."
      ],
      "id": "clothing",
      "products": [
@@ -136,9 +144,9 @@
     },
     {
      "n": "02",
-     "h": "Bags, in parallel",
+     "h": "Bags and backpacks, in parallel",
      "t": [
-      "Alongside the clothing I worked on backpack, day pack and sling bag concepts, and hit the same walls: rare, unavailable or prohibitively expensive materials, long waits, and existing brands that weren't perfect but already had the recognition and the cult following. They died for the same reasons."
+      "Alongside clothing, I worked on multiple backpack, day pack and sling bag concepts, but hit similar walls: difficulty sourcing materials, long prototyping cycles, minimum order quantities, and language and communication barriers with manufacturers."
      ],
      "id": "bags",
      "products": [
@@ -150,8 +158,16 @@
      ],
      "concepts": [
       {
-       "title": "Ultralight Waterproof Clip-on Bags",
-       "note": "Small dry bags that clip to the outside of the pack."
+       "title": "Compression and Vacuum Bags",
+       "note": "To shrink clothing down inside the pack."
+      },
+      {
+       "title": "Ultralight Dry Bags",
+       "note": "Waterproof storage that weighs next to nothing."
+      },
+      {
+       "title": "Ultrathin Packing Cubes",
+       "note": "Organization without the added bulk."
       }
      ]
     },
@@ -159,8 +175,8 @@
      "n": "03",
      "h": "Physical products",
      "t": [
-      "I had a long list of physical products too, and pursued a handful: ultralight waterproof clip-on bags, a security belt that combined my favorite travel features (no metal, stretch fabric, hidden pockets), an ultra-portable drying rack for the perennial problem of nowhere to hang clothes in a hotel or hostel, a packable picnic and beach blanket, a free-standing toiletry bag for bathrooms with no counter space, and a packable wash basin for doing laundry in the sink.",
-      "The path was the same each time: product designers in Atlanta, a 3D print shop in Denver, manufacturers in China, material sourcers in Switzerland. So were the constraints: rare materials, manufacturing minimums, long prototyping timelines, and the cost of every prototype and component."
+      "I had a long list of physical products too, and pursued a handful: a security belt that combined my favorite travel features (no metal, stretch fabric, hidden pockets), an ultra-portable drying rack for the perennial problem of nowhere to hang clothes in a hotel or hostel, a packable picnic and beach blanket, a free-standing toiletry bag for bathrooms with limited counter space, and a packable wash basin for doing laundry in the sink.",
+      "I worked with product designers, 3D printing companies, component manufacturers and material suppliers from all over the world, but kept running into the same issues: rare materials, prohibitively long prototyping cycles, manufacturer minimums, and custom component costs."
      ],
      "id": "physical",
      "products": [
