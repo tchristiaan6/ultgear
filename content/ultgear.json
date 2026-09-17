@@ -181,7 +181,7 @@
      "id": "physical",
      "products": [
       "hidden-pocket-travel-belt",
-      "universal-drying-rack",
+      "ultraportable-drying-rack",
       "packable-wash-basin",
       "packable-beach-blanket",
       "ultrapackable-tech-accessories"
@@ -739,8 +739,8 @@
    ]
   },
   {
-   "slug": "universal-drying-rack",
-   "title": "Universal Drying Rack",
+   "slug": "ultraportable-drying-rack",
+   "title": "Ultraportable Drying Rack",
    "category": "Portable Travel Accessories",
    "status": "Prototypes · several",
    "summary": "A clothes-drying rack that collapses into a tube the size of a phone tripod.",
@@ -754,8 +754,9 @@
     "Protolabs injection-molding overview",
     "Pole layout drawing, v2.0"
    ],
-   "hero": "/images/products/universal-drying-rack/drying-rack-1.jpg",
+   "hero": "/images/products/universal-drying-rack/portable-hanger-1.jpg",
    "gallery": [
+    "/images/products/universal-drying-rack/portable-hanger-1.jpg",
     "/images/products/universal-drying-rack/drying-rack-1.jpg",
     "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
     "/images/products/universal-drying-rack/drying-rack-2-0-pole-layout.png",
@@ -764,7 +765,6 @@
     "/images/products/universal-drying-rack/2022-10-26-09-11-32-carbon-fiber-tube-connector-.png",
     "/images/products/universal-drying-rack/2023-03-28-08-10-38-camping-umbrella-hooks-hangi.png",
     "/images/products/universal-drying-rack/2023-03-28-08-10-49-camping-umbrella-hooks-hangi.png",
-    "/images/products/universal-drying-rack/portable-hanger-1.jpg",
     "/images/products/universal-drying-rack/portable-hanger-2.jpg",
     "/images/products/universal-drying-rack/attempt-1.png",
     "/images/products/universal-drying-rack/attempt-2.png",
@@ -838,7 +838,9 @@
     "/images/products/universal-drying-rack/img-5818.jpg",
     "/images/products/universal-drying-rack/drying-test.jpg"
    ],
-   "videos": []
+   "videos": [],
+   "pos": "50% 22%",
+   "pageFit": "contain"
   },
   {
    "slug": "packable-wash-basin",

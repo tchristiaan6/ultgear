@@ -491,88 +491,6 @@
    "5.png"
   ]
  ],
- "universal-drying-rack": [
-  [
-   "/images/products/universal-drying-rack/drying-rack-1.jpg",
-   "drying rack 1.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/drying-rack-2-0-pole-layout.png",
-   "drying rack 2.0 pole layout.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/screenshot-2024-05-04-164722.png",
-   "Screenshot 2024-05-04 164722.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/screenshot-2024-05-07-071048.png",
-   "Screenshot 2024-05-07 071048.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/2022-10-26-09-11-32-carbon-fiber-tube-connector-.png",
-   "2022-10-26 09_11_32-Carbon Fiber Tube Connector Systems _ DragonPlate.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/2023-03-28-08-10-38-camping-umbrella-hooks-hangi.png",
-   "2023-03-28 08_10_38-Camping Umbrella Hooks _ Hanging Beach Umbrella _ Beach Umbrella Hooks - Hook 1p.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/2023-03-28-08-10-49-camping-umbrella-hooks-hangi.png",
-   "2023-03-28 08_10_49-Camping Umbrella Hooks _ Hanging Beach Umbrella _ Beach Umbrella Hooks - Hook 1p.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/portable-hanger-1.jpg",
-   "portable hanger 1.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/portable-hanger-2.jpg",
-   "portable hanger 2.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
-   "portable drying rack 2.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/attempt-1.png",
-   "attempt 1.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/attempt-2.png",
-   "attempt 2.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/attempt-3.png",
-   "attempt 3.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/blue-connector.jpg",
-   "blue connector.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/gray-connector.jpg",
-   "gray connector.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/hanger-1.png",
-   "hanger 1.png"
-  ],
-  [
-   "/images/products/universal-drying-rack/stacked-hanger.jpg",
-   "stacked hanger.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/travel-drying-rack-v2.jpg",
-   "travel drying rack v2.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/ulanzi-mt-44-and-tp-02-base-only.jpg",
-   "ulanzi mt-44 and tp-02 base only.jpg"
-  ],
-  [
-   "/images/products/universal-drying-rack/ulanzi-mt-44-base-only.jpg",
-   "ulanzi mt-44 base only.jpg"
-  ]
- ],
  "packable-wash-basin": [
   [
    "/images/products/packable-wash-basin/portable-wash-basin-2.png",
@@ -867,6 +785,88 @@
   [
    "/images/products/ultralight-backpack/1822l-naturehike-ultralight-packable-day-packs-bags-and-back.jpg",
    "1822l-naturehike-ultralight-packable-day-packs-bags-and-back.jpg"
+  ]
+ ],
+ "ultraportable-drying-rack": [
+  [
+   "/images/products/universal-drying-rack/drying-rack-1.jpg",
+   "drying rack 1.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/drying-rack-2-0-pole-layout.png",
+   "drying rack 2.0 pole layout.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/screenshot-2024-05-04-164722.png",
+   "Screenshot 2024-05-04 164722.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/screenshot-2024-05-07-071048.png",
+   "Screenshot 2024-05-07 071048.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/2022-10-26-09-11-32-carbon-fiber-tube-connector-.png",
+   "2022-10-26 09_11_32-Carbon Fiber Tube Connector Systems _ DragonPlate.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/2023-03-28-08-10-38-camping-umbrella-hooks-hangi.png",
+   "2023-03-28 08_10_38-Camping Umbrella Hooks _ Hanging Beach Umbrella _ Beach Umbrella Hooks - Hook 1p.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/2023-03-28-08-10-49-camping-umbrella-hooks-hangi.png",
+   "2023-03-28 08_10_49-Camping Umbrella Hooks _ Hanging Beach Umbrella _ Beach Umbrella Hooks - Hook 1p.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/portable-hanger-1.jpg",
+   "portable hanger 1.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/portable-hanger-2.jpg",
+   "portable hanger 2.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/portable-drying-rack-2.jpg",
+   "portable drying rack 2.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/attempt-1.png",
+   "attempt 1.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/attempt-2.png",
+   "attempt 2.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/attempt-3.png",
+   "attempt 3.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/blue-connector.jpg",
+   "blue connector.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/gray-connector.jpg",
+   "gray connector.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/hanger-1.png",
+   "hanger 1.png"
+  ],
+  [
+   "/images/products/universal-drying-rack/stacked-hanger.jpg",
+   "stacked hanger.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/travel-drying-rack-v2.jpg",
+   "travel drying rack v2.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/ulanzi-mt-44-and-tp-02-base-only.jpg",
+   "ulanzi mt-44 and tp-02 base only.jpg"
+  ],
+  [
+   "/images/products/universal-drying-rack/ulanzi-mt-44-base-only.jpg",
+   "ulanzi mt-44 base only.jpg"
   ]
  ]
 }
