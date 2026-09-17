@@ -184,7 +184,6 @@
       "universal-drying-rack",
       "packable-wash-basin",
       "packable-beach-blanket",
-      "free-standing-toiletry-bag",
       "ultrapackable-tech-accessories"
      ],
      "concepts": []
@@ -1120,31 +1119,12 @@
    "videos": []
   },
   {
-   "slug": "free-standing-toiletry-bag",
-   "title": "Free-standing Toiletry Bag",
-   "category": "Portable Travel Accessories",
-   "status": "Concept · sample tested",
-   "summary": "For hostel bathrooms with no counter space.",
-   "story": "A toiletry bag that stands or hangs on its own, because hostel bathrooms rarely have a shelf. I bought a hanging bag to test the idea on the road.",
-   "wanted": [],
-   "docs": [],
-   "hero": "/images/products/free-standing-toiletry-bag/2023-05-15-08-38-27-amazon-com-toiletry-bag-for-men-travel-e.png",
-   "gallery": [
-    "/images/products/free-standing-toiletry-bag/2023-05-15-08-38-27-amazon-com-toiletry-bag-for-men-travel-e.png",
-    "/images/products/free-standing-toiletry-bag/img-1681.jpg",
-    "/images/products/free-standing-toiletry-bag/img-6408.jpg",
-    "/images/products/free-standing-toiletry-bag/screenshot-2023-08-30-092509.png",
-    "/images/products/free-standing-toiletry-bag/screenshot-2023-08-30-092517.png"
-   ],
-   "videos": []
-  },
-  {
    "slug": "ultrapackable-tech-accessories",
    "title": "Ultrapackable Tech Accessories",
    "category": "Portable Travel Accessories",
    "status": "Research",
    "summary": "Product ideas explored and researched but not built.",
-   "story": "Reference gathering for chargers and cables: multi-port chargers, flat cables, one charger that covers every device, plus the USB battery belt idea that got its own prior-art search. Also here: the minimalist wallet research, including the aluminum wallet samples.",
+   "story": "Reference gathering for chargers and cables: multi-port chargers, flat cables, one charger that covers every device, plus the USB battery belt idea that got its own prior-art search. Also here: a free-standing toiletry bag for hostel bathrooms with limited counter space, where I bought a hanging bag to test the idea on the road, and the minimalist wallet research, including the aluminum wallet samples.",
    "wanted": [],
    "docs": [],
    "hero": "/images/products/ultrapackable-tech-accessories/packable-travel-day-pack-1.jpg",
@@ -1154,6 +1134,11 @@
     "/images/products/ultrapackable-tech-accessories/packable-travel-towel-1.jpg",
     "/images/products/ultrapackable-tech-accessories/single-charger.jpg",
     "/images/products/ultrapackable-tech-accessories/usb-port-types.jpg",
+    "/images/products/free-standing-toiletry-bag/2023-05-15-08-38-27-amazon-com-toiletry-bag-for-men-travel-e.png",
+    "/images/products/free-standing-toiletry-bag/img-1681.jpg",
+    "/images/products/free-standing-toiletry-bag/img-6408.jpg",
+    "/images/products/free-standing-toiletry-bag/screenshot-2023-08-30-092509.png",
+    "/images/products/free-standing-toiletry-bag/screenshot-2023-08-30-092517.png",
     "/images/products/everything-else-accessories/2023-04-24-14-48-12-amazon-com-bemmo-carbon-fiber-card-holde.png",
     "/images/products/everything-else-accessories/2023-04-24-14-48-24-amazon-com-bemmo-carbon-fiber-card-holde.png",
     "/images/products/everything-else-accessories/2023-04-24-14-48-34-amazon-com-bemmo-carbon-fiber-card-holde.png",
