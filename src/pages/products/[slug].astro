@@ -1,16 +1,19 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProductCard from '../../components/ProductCard.astro';
-import { products } from '../../lib/data';
+import { products, site } from '../../lib/data';
 export function getStaticPaths() { return products.map(p => ({ params: { slug: p.slug }, props: { p } })); }
 const { p } = Astro.props;
 const i = products.findIndex(x => x.slug === p.slug);
 const prev = products[(i - 1 + products.length) % products.length], next = products[(i + 1) % products.length];
+const chapter = (site as any).story.chapters.find((c: any) => (c.products || []).includes(p.slug));
+const home = chapter ? `/#${chapter.id}` : '/#products';
 const more = products.filter(x => x.category === p.category && x.slug !== p.slug).slice(0, 3);
 ---
 <Base title={p.title} description={p.summary} image={p.hero} type="article">
 <article class="section"><div class="container">
-  <p class="kicker"><a href="/#products" style="text-decoration:none">{p.category}</a></p>
+  <a class="back back--top" href={home}>&larr; Back to home</a>
+  <p class="kicker"><a href={home} style="text-decoration:none">{p.category}</a></p>
   <div class="head"><h1 style="font-size:clamp(36px,5vw,64px)">{p.title}</h1><span class="pill">{p.status}</span></div>
   <p class="lede">{p.summary}</p>
   <div class="body">
@@ -22,6 +25,7 @@ const more = products.filter(x => x.category === p.category && x.slug !== p.slug
   </div>
   {(p.gallery.length > 1 || (p.videos && p.videos.length > 0)) && <div class="gallery"><h3>Photos, samples and revisions</h3>{p.gallery.length > 1 && <div class="masonry">{p.gallery.slice(1).map((src: string) => <a href={src} target="_blank" rel="noopener"><img src={src} alt={p.title} loading="lazy"></a>)}</div>}{p.videos && p.videos.length > 0 && <div class="grid grid--3 videos">{p.videos.map((v: string) => <video controls preload="metadata" playsinline src={v}></video>)}</div>}</div>}
   <nav class="pn"><a href={`/products/${prev.slug}`}>&larr; {prev.title}</a><a href={`/products/${next.slug}`}>{next.title} &rarr;</a></nav>
+  <p class="back-wrap"><a class="back" href={home}>&larr; Back to home</a></p>
 </div></article>
 {more.length > 0 && <section class="section section--soft"><div class="container"><h2 style="font-size:28px;margin-bottom:20px">More {p.category.toLowerCase()}</h2><div class="grid grid--3">{more.map((m: any) => <ProductCard p={m} />)}</div></div></section>}
 </Base>
@@ -33,4 +37,5 @@ const more = products.filter(x => x.category === p.category && x.slug !== p.slug
 .videos{margin-top:16px}.videos video{width:100%;border-radius:var(--radius);background:#000;aspect-ratio:9/16;max-height:520px}
 .gallery{margin-top:48px}.gallery h3{font-size:22px;margin-bottom:16px}.gallery a{display:block;break-inside:avoid}
 .pn{display:flex;justify-content:space-between;gap:16px;margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-family:var(--font-head);font-weight:700;font-size:15px}.pn a{text-decoration:none}.pn a:hover{color:var(--yellow-dark)}
+.back{display:inline-flex;align-items:center;gap:8px;padding:9px 16px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);text-decoration:none;font-family:var(--font-head);font-weight:700;font-size:13px;letter-spacing:.08em;text-transform:uppercase;transition:all .2s}.back:hover{border-color:var(--yellow-dark);background:var(--yellow);transform:translateY(-1px)}.back--top{margin-bottom:22px}.back-wrap{text-align:center;margin-top:28px}
 </style>
