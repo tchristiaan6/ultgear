@@ -20,8 +20,7 @@ const more = products.filter(x => x.category === p.category && x.slug !== p.slug
     </div>
     <img class="hero-img" style={p.fit === 'contain' ? 'object-fit:contain;background:#fff;padding:12px' : undefined} src={p.hero} alt={p.title} width="1200" height="900">
   </div>
-  {p.videos && p.videos.length > 0 && <div class="videos"><h3>Video</h3><div class="grid grid--3">{p.videos.map((v: string) => <video controls preload="metadata" playsinline src={v}></video>)}</div></div>}
-  {p.gallery.length > 1 && <div class="gallery"><h3>Photos, samples and revisions</h3><div class="masonry">{p.gallery.slice(1).map((src: string) => <a href={src} target="_blank" rel="noopener"><img src={src} alt={p.title} loading="lazy"></a>)}</div></div>}
+  {(p.gallery.length > 1 || (p.videos && p.videos.length > 0)) && <div class="gallery"><h3>Photos, samples and revisions</h3>{p.gallery.length > 1 && <div class="masonry">{p.gallery.slice(1).map((src: string) => <a href={src} target="_blank" rel="noopener"><img src={src} alt={p.title} loading="lazy"></a>)}</div>}{p.videos && p.videos.length > 0 && <div class="grid grid--3 videos">{p.videos.map((v: string) => <video controls preload="metadata" playsinline src={v}></video>)}</div>}</div>}
   <nav class="pn"><a href={`/products/${prev.slug}`}>&larr; {prev.title}</a><a href={`/products/${next.slug}`}>{next.title} &rarr;</a></nav>
 </div></article>
 {more.length > 0 && <section class="section section--soft"><div class="container"><h2 style="font-size:28px;margin-bottom:20px">More {p.category.toLowerCase()}</h2><div class="grid grid--3">{more.map((m: any) => <ProductCard p={m} />)}</div></div></section>}
@@ -31,7 +30,7 @@ const more = products.filter(x => x.category === p.category && x.slug !== p.slug
 .body{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}.story p{font-size:17px;line-height:1.7}.hero-img{border-radius:var(--radius);width:100%;aspect-ratio:4/3;object-fit:cover;border:1px solid var(--line)}
 @media(max-width:860px){.body{grid-template-columns:1fr}.hero-img{order:-1}}
 .box{background:var(--bg-soft);border-radius:12px;padding:16px 20px;margin-top:18px}.box h4{font-family:var(--font-head);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}.box ul{margin:0;padding-left:18px;font-size:15px}.box li{margin:4px 0}
-.videos{margin-top:48px}.videos h3{font-size:22px;margin-bottom:16px}.videos video{width:100%;border-radius:var(--radius);background:#000;aspect-ratio:9/16;max-height:520px}
+.videos{margin-top:16px}.videos video{width:100%;border-radius:var(--radius);background:#000;aspect-ratio:9/16;max-height:520px}
 .gallery{margin-top:48px}.gallery h3{font-size:22px;margin-bottom:16px}.gallery a{display:block;break-inside:avoid}
 .pn{display:flex;justify-content:space-between;gap:16px;margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-family:var(--font-head);font-weight:700;font-size:15px}.pn a{text-decoration:none}.pn a:hover{color:var(--yellow-dark)}
 </style>
