@@ -41,7 +41,7 @@
   ],
   "storefront": {
    "title": "Before the products, a store",
-   "text": "ULT Gear launched in 2023 as a curated shop of the best ultralight gear already on the market, with the plan to swap in ULT Gear's own designs as they came off the line. The store ran; the line never came off the line.",
+   "text": "ULT Gear launched in 2023 as a curated shop of the best ultralight gear already on the market, with the plan to swap in ULT Gear's own designs as they came off the line. The store ran; the products never came off the line.",
    "image": "/images/storefront/ult-gear-website-mobile.png"
   },
   "ending": {
@@ -206,7 +206,7 @@
     },
     {
      "n": "05",
-     "h": "Travel Shoes",
+     "h": "Travel shoes",
      "t": [
       "One project I spent a lot of time on was called SwitchKicks. Shoes have always been the traveler's problem. At a minimum you need sandals, hiking shoes and something casual, and ideally a dressier pair, a higher-ankle hiker, and a cold-weather shoe if your route crosses climates. So I wondered whether I could build a layered shoe system: a minimalist base shoe for the beach or barefoot running, with slip-on layers that change its function or its look. Patterns and materials for style, an adjustable base for traction.",
       "I worked with two shoe designers to get the concept down. It died when I learned that a single shoe mold, one size of one style, runs $10k to $12k. For a system built on a flexible base plus layers, materials and outsoles, that meant something like $500k to $1M in R&D before anyone could try a pair on."
