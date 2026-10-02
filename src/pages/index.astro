@@ -29,7 +29,6 @@ import { site, products, byCategory } from '../lib/data';
 {site.story.chapters.map((c: any) => c.id === 'ending' ? (
   <section class="section section--dark reveal" id="ending"><div class="container">
     <div class="chapter"><div class="chapter__n">{c.n}</div><div><h2 style="font-size:clamp(30px,4vw,44px)">{c.h}</h2>{c.t.map((t: string) => <p class="chapter__p">{t}</p>)}
-      <div class="partners"><p class="kicker">Who I worked with</p><p>{site.partners}</p></div>
       <a class="btn" href="https://tchristiaan.com" target="_blank" rel="noopener">More projects at tchristiaan.com</a></div></div>
   </div></section>
 ) : (
