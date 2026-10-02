@@ -1210,11 +1210,12 @@
    "category": "Portable Travel Accessories",
    "status": "Research",
    "summary": "Product ideas explored and researched but not built.",
-   "story": "I toyed with many ideas that never made it past the concept phase: ultra-slim wallets, pocket-sized towels, portable dryers, waterproof containers, ultraportable clothes hangers and miniaturized toiletries. If I saw something I thought could be improved, I researched it, tested it and, in many cases, drew out designs for how to make it smaller, more compact or easier to carry.",
+   "story": "I toyed with many ideas that never made it past the concept phase: ultra-slim wallets, pocket-sized towels, portable dryers, waterproof containers, ultra-slim chargers, ultraportable clothes hangers and miniaturized toiletries. If I saw something I thought could be improved, I researched it, tested it and, in many cases, drew out designs for how to make it smaller, lighter, or easier to carry.",
    "wanted": [],
    "docs": [],
-   "hero": "/images/products/ultrapackable-tech-accessories/single-charger.jpg",
+   "hero": "/images/products/ultrapackable-tech-accessories/reference-grooming-kit.png",
    "gallery": [
+    "/images/products/ultrapackable-tech-accessories/reference-grooming-kit.png",
     "/images/products/ultrapackable-tech-accessories/single-charger.jpg",
     "/images/products/ultrapackable-tech-accessories/packable-travel-towel-1.jpg",
     "/images/products/ultrapackable-tech-accessories/usb-port-types.jpg",
@@ -1244,7 +1245,6 @@
     "/images/products/ultrapackable-tech-accessories/reference-charging-station.png",
     "/images/products/ultrapackable-tech-accessories/reference-accessories-1.png",
     "/images/products/ultrapackable-tech-accessories/reference-accessories-2.png",
-    "/images/products/ultrapackable-tech-accessories/reference-grooming-kit.png",
     "/images/products/ultrapackable-tech-accessories/reference-universal-adapter.png",
     "/images/products/ultrapackable-tech-accessories/reference-trimmer.png",
     "/images/products/ultrapackable-tech-accessories/reference-phone-case.png",
@@ -1252,7 +1252,12 @@
     "/images/products/ultrapackable-tech-accessories/reference-accessory-listings.png",
     "/images/products/ultrapackable-tech-accessories/reference-divers-egg-dry-box.png",
     "/images/products/ultrapackable-tech-accessories/reference-dry-box-cylinder.png",
-    "/images/products/ultrapackable-tech-accessories/reference-card-wallet.png"
+    "/images/products/ultrapackable-tech-accessories/reference-card-wallet.png",
+    "/images/products/ultrapackable-tech-accessories/reference-solar-power-bank.png",
+    "/images/products/ultrapackable-tech-accessories/reference-lipo-battery.png",
+    "/images/products/ultrapackable-tech-accessories/reference-magnetic-power-bank.png",
+    "/images/products/ultrapackable-tech-accessories/reference-portable-dryer-1.png",
+    "/images/products/ultrapackable-tech-accessories/reference-portable-dryer-2.png"
    ],
    "videos": []
   },
