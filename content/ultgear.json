@@ -88,14 +88,6 @@
     "note": "Organization without the added bulk."
    },
    {
-    "title": "Packable Heating Pad",
-    "note": "A pad to dry clothes on; bench-tested with a heating element and thermostat."
-   },
-   {
-    "title": "Packable Heated Hanger",
-    "note": "Concept only."
-   },
-   {
     "title": "Heated Clothing",
     "note": "Concept, tied to the USB battery belt as the power source."
    },
@@ -202,14 +194,6 @@
       "portable-ultrasonic-cleaner"
      ],
      "concepts": [
-      {
-       "title": "Packable Heating Pad",
-       "note": "A pad to dry clothes on; bench-tested with a heating element and thermostat."
-      },
-      {
-       "title": "Packable Heated Hanger",
-       "note": "Concept only."
-      },
       {
        "title": "Heated Clothing",
        "note": "Concept, tied to the USB battery belt as the power source."
