@@ -969,10 +969,10 @@
   },
   {
    "slug": "self-drying-towel",
-   "title": "Heated Drying: Pad, Hanger, Towel",
+   "title": "Heated Drying: Pads, Hangers, and Racks",
    "category": "Portable Travel Accessories",
    "status": "Patent searches · bench tests · design proposal",
-   "summary": "A packable heating pad for drying clothes, plus a heated hanger, heated towel and heated clothing.",
+   "summary": "Testing clothes drying methods on the road: heated pads, air-drying hangers, and portable dryers for daily laundry.",
    "story": "A family of ideas around one problem: wet clothes and towels in a hostel room with nowhere to dry them. A packable heating pad you lay clothes on. A packable heated hanger. A towel with carbon-fiber heating elements and a magnetic wireless charging tag. Heated clothing in general. Some of it needed technology I knew existed in other products, and I wasn't sure I could adapt it to mine, so I started by testing what was already out there: heating and drying tests on a bench, including a food dehydrator with a pair of socks in it and an off-the-shelf heating mat with a load of laundry on it. I ran automated prior-art searches in January and February 2023, got a research-and-ideation proposal from a product design firm, and spent most of the time on the legal questions: could I license the tech, could I change it enough to avoid a patent, did I need patents of my own. The same searches covered a USB-powered belt as a portable power source for heated clothing. None of it went further than the bench.",
    "wanted": [],
    "docs": [
@@ -1005,9 +1005,21 @@
     "/images/products/self-drying-towel/img-2407.jpg",
     "/images/products/self-drying-towel/img-2408.jpg",
     "/images/products/self-drying-towel/img-2409.jpg",
-    "/images/products/self-drying-towel/img-2410.jpg"
+    "/images/products/self-drying-towel/img-2410.jpg",
+    "/images/products/self-drying-towel/heated-mat-shirt-test.jpg",
+    "/images/products/self-drying-towel/heating-pad-laundry-load.jpg",
+    "/images/products/self-drying-towel/heating-pad-blue.jpg",
+    "/images/products/self-drying-towel/heating-pad-shorts-test.jpg",
+    "/images/products/self-drying-towel/gloves-drying-on-washer.jpg",
+    "/images/products/self-drying-towel/balcony-drying-rack.jpg",
+    "/images/products/self-drying-towel/towel-radiator-drying.jpg",
+    "/images/products/self-drying-towel/dehydrator-stacked.jpg",
+    "/images/products/self-drying-towel/dryer-box-diagram.jpg",
+    "/images/products/self-drying-towel/dryer-box-diagram-marked.jpg"
    ],
-   "videos": []
+   "videos": [
+    "/videos/self-drying-towel/drying-test.mp4"
+   ]
   },
   {
    "slug": "portable-ultrasonic-cleaner",
