@@ -1028,9 +1028,24 @@
    "gallery": [
     "/images/products/portable-ultrasonic-cleaner/img_0909.jpg",
     "/images/products/portable-ultrasonic-cleaner/img_0821-mov.jpg",
-    "/images/products/portable-ultrasonic-cleaner/img_0949.jpg"
+    "/images/products/portable-ultrasonic-cleaner/img_0949.jpg",
+    "/images/products/portable-ultrasonic-cleaner/stain-test-before.jpg",
+    "/images/products/portable-ultrasonic-cleaner/stain-test-bowls-1.jpg",
+    "/images/products/portable-ultrasonic-cleaner/stain-test-bowls-2.jpg",
+    "/images/products/portable-ultrasonic-cleaner/stain-test-results-tray.jpg"
    ],
-   "videos": []
+   "videos": [
+    "/videos/portable-ultrasonic-cleaner/img-0428.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0429.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0430.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0433.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0434.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0441.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0442.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0443.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0446.mp4",
+    "/videos/portable-ultrasonic-cleaner/img-0821.mp4"
+   ]
   },
   {
    "slug": "convertible-pants",
