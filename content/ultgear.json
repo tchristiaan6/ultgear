@@ -154,7 +154,7 @@
       "packable-waist-pack",
       "security-chest-sling",
       "ultralight-backpack",
-      "everything-else-bags"
+      "packable-keychain-tote-bag"
      ],
      "concepts": [
       {
@@ -1290,14 +1290,21 @@
    "videos": []
   },
   {
-   "slug": "everything-else-bags",
-   "title": "Everything Else: Bags",
+   "slug": "packable-keychain-tote-bag",
+   "title": "Packable Keychain Tote Bag",
    "category": "Packable Bags & Day Packs",
-   "status": "Odds and ends",
-   "summary": "What didn't fit a card: the tote spec, packing layouts, strap hardware.",
-   "story": "The rest of the bags archive: the keychain tote design, packing layouts, a strap-hook video, and reference shots.",
-   "wanted": [],
-   "docs": [],
+   "status": "Designed",
+   "summary": "A pocket-sized tote for groceries and shopping that folds flat onto a keychain.",
+   "story": "A pocket-sized keychain tote bag for groceries and shopping, with a lay-flat design so it doesn't bulge in your pocket. The bag folds into itself and packs down to roughly 8 by 8 by 2 cm, with a simple plastic carabiner hook at the top and a built-in, sewn-on pocket.",
+   "wanted": [
+    "Folds into itself, about 8 × 8 × 2 cm when packed",
+    "Lies flat in a pocket, with smaller zippers and no outside pocket",
+    "Opens to a 40 cm wide tote, 60 cm tall with the handles",
+    "Plastic carabiner hook for a keychain or bag"
+   ],
+   "docs": [
+    "Design spec pages with dimensions"
+   ],
    "hero": "/images/products/everything-else-bags/4-2.png",
    "gallery": [
     "/images/products/everything-else-bags/4-2.png",

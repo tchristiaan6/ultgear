@@ -1157,20 +1157,6 @@
    "ulanzi mt-44 base only.jpg"
   ]
  ],
- "everything-else-bags": [
-  [
-   "/images/products/everything-else-bags/reference-dry-bag-listing.png",
-   "Downloads/everything else bags-backpacks images.zip/IMG_3511.PNG"
-  ],
-  [
-   "/images/products/everything-else-bags/reference-packable-backpack-listing.png",
-   "Downloads/everything else bags-backpacks images.zip/IMG_3514.PNG"
-  ],
-  [
-   "/videos/everything-else-bags/pouch-clip.mp4",
-   "Downloads/everything else bags-backpacks images.zip/6beca1fc-8272-43d9-b194-fa295c8137c6.mp4"
-  ]
- ],
  "ultrapackable-travel-accessories": [
   [
    "/images/products/ultrapackable-tech-accessories/hanging-toiletry-pouch.jpg",
@@ -1299,6 +1285,20 @@
   [
    "/images/products/ultrapackable-tech-accessories/toiletry-pouch-open.jpg",
    "Downloads/everything else bags-backpacks images.zip/IMG_4124.HEIC"
+  ]
+ ],
+ "packable-keychain-tote-bag": [
+  [
+   "/images/products/everything-else-bags/reference-dry-bag-listing.png",
+   "Downloads/everything else bags-backpacks images.zip/IMG_3511.PNG"
+  ],
+  [
+   "/images/products/everything-else-bags/reference-packable-backpack-listing.png",
+   "Downloads/everything else bags-backpacks images.zip/IMG_3514.PNG"
+  ],
+  [
+   "/videos/everything-else-bags/pouch-clip.mp4",
+   "Downloads/everything else bags-backpacks images.zip/6beca1fc-8272-43d9-b194-fa295c8137c6.mp4"
   ]
  ]
 }
