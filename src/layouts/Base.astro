@@ -19,7 +19,7 @@ const nav = [{ label: 'Clothing', href: '/#clothing' }, { label: 'Bags', href: '
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-<div class="archive-bar">ULT Gear is a retired project, 2023 to 2024. Nothing here is for sale. A <a href="https://tchristiaan.com" target="_blank" rel="noopener">TChristiaan</a> project by Thomas Bouwman.</div>
+<div class="archive-bar">ULT Gear is a retired project, 2023 to 2024. Nothing here is for sale. A <a href="https://tchristiaan.com" target="_blank" rel="noopener">TChristiaan</a> project by <a href="https://www.linkedin.com/in/tchristiaan/" target="_blank" rel="noopener">Thomas Bouwman</a>.</div>
 <header class="header"><div class="container">
   <a class="brand" href="/"><img src={site.brand.mark_dark} alt="" width="34" height="34"><span>ULT<b>GEAR</b></span></a>
   <nav class="nav" aria-label="Main">{nav.map(n => <a href={n.href}>{n.label}</a>)}</nav>
@@ -27,7 +27,7 @@ const nav = [{ label: 'Clothing', href: '/#clothing' }, { label: 'Bags', href: '
 <main><slot /></main>
 <footer class="footer"><div class="container">
   <div class="top"><img src={site.brand.mark_light} alt="ULT Gear"><p>Ultra-light travel gear for the modern explorer. A product lab that ran from 2023 to 2024 out of Denver, Colorado. ULT Gear is a retired project, and nothing here is for sale.</p></div>
-  <div class="bottom"><span>© 2023–2024 ULT Gear LLC. Archived 2026.</span><span>A <a href="https://tchristiaan.com">TChristiaan</a> project by Thomas Bouwman</span></div>
+  <div class="bottom"><span>© 2023–2024 ULT Gear LLC. Archived 2026.</span><span>A <a href="https://tchristiaan.com">TChristiaan</a> project by <a href="https://www.linkedin.com/in/tchristiaan/" target="_blank" rel="noopener">Thomas Bouwman</a></span></div>
 </div></footer>
 <script>
   const els=[...document.querySelectorAll('.reveal')];
